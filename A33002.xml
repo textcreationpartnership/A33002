@@ -1,0 +1,1678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Form of common prayer, to be used on Wednesday the 4th of February, 1673/4, within the cities of London and Westminster ... : and on Wednesday the 11th of Febr. next through the rest of the whole kingdom of England, Dominion of Wales, and town of Berwick upon Tweed : being the days of the general fast appointed by His Majesties proclamation, for imploring Gods blessing on His Majesty, and the present Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33002</idno>
+            <idno type="STC">Wing C4118</idno>
+            <idno type="STC">ESTC R16017</idno>
+            <idno type="EEBO-CITATION">12393491</idno>
+            <idno type="OCLC">ocm 12393491</idno>
+            <idno type="VID">61057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 957:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Form of common prayer, to be used on Wednesday the 4th of February, 1673/4, within the cities of London and Westminster ... : and on Wednesday the 11th of Febr. next through the rest of the whole kingdom of England, Dominion of Wales, and town of Berwick upon Tweed : being the days of the general fast appointed by His Majesties proclamation, for imploring Gods blessing on His Majesty, and the present Parliament.</title>
+               </titleStmt>
+               <extent>[66] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673/4.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Church of England --  Prayer-books and devotions --  English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61057:1"/>
+            <pb facs="tcp:61057:1"/>
+            <p>A FORM OF <hi>COMMON PRAYER,</hi> To be uſed on <hi>Wedneſday</hi> the 4<hi rend="sup">th</hi> of <hi>February,</hi> 1673/4, Within the Cities of <hi>London</hi> and <hi>Westminiſter,</hi> Burrough of <hi>Southwark,</hi> and other places within Ten miles diſtance.</p>
+            <p>And on <hi>Wedneſday</hi> the 11<hi rend="sup">th</hi> of <hi>Febr.</hi> next through the reſt of the whole Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed;</hi>
+            </p>
+            <p>Being the days of the <hi>GENERAL FAST</hi> Appointed by His Majeſties Proclamation, for Imploring Gods bleſſing on His Majeſty, And the preſent PARLIAMENT.</p>
+            <p>
+               <hi>Set forth by His Majeſties Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſt-pher Parker,</hi> Printers to the Kings moſt Excellent Majeſty,</p>
+         </div>
+      </front>
+      <body>
+         <div type="order_of_service">
+            <pb facs="tcp:61057:2"/>
+            <pb facs="tcp:61057:2"/>
+            <head>The Order for Morning PRAYER.</head>
+            <div type="part">
+               <head>¶ <hi>Let him that miniſtreth read with a loud voice, one or more of theſe ſen<g ref="char:EOLhyphen"/>tences of Scripture, and then ſay the Exhortation that followeth.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">R</seg>Ent your heart, and not your <note place="margin">Joel 2. 13.</note> garments, and turn unto the Lord your God, for he is gracious, and merciful, ſlow to anger, and of great kind<g ref="char:EOLhyphen"/>neſs, and repenteth him of the evil.</p>
+               <p>To the Lord our God <note place="margin">Dan. 9. 9, 10.</note> belong mercies, and for<g ref="char:EOLhyphen"/>giveneſs, though we have rebelled againſt him: neither have we obeyed the voice of the Lord our God, to walk in his laws, which he ſet be<g ref="char:EOLhyphen"/>fore us.</p>
+               <p>O Lord correct me, but with judgment; not <note place="margin">Jer. 10. 24.</note> in thine anger, leſt thou bring me to nothing.</p>
+               <p>DEarly beloved brethren, the Scripture moveth us in ſundry places, to acknow<g ref="char:EOLhyphen"/>ledge and confeſs our manifold ſins and wick<g ref="char:EOLhyphen"/>edneſs, and that we ſhould not diſſemble nor cloke them before the face of Almighty God
+<pb facs="tcp:61057:3"/> our heavenly Father, but confeſs them with an humble, lowly, penitent, and obedient heart, to the end that we may obtain forgiveneſs ef the ſame, by his infinite goodneſs and mercy. And although we ought at all times humbly to acknowledge our ſins before God, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ought we moſt chiefly ſo to do, when we aſſemble and meet together, to render thanks for the great benefits that we have received at his bands, to ſet forth his moſt worthy praiſe, to hear his moſt holy-word, and to ask thoſe things which are requiſite and neceſſary, as well for the body as the ſoul; Wherefore I pray and beſeech you as many as are here preſent, to accom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any me with a pure heart and humble voice, into the throne of the heavenly grace, ſaying after me.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>The Confeſſion to be ſaid of the whole Congrega<g ref="char:EOLhyphen"/>tion after the Miniſter, all kneeling.</hi>
+               </head>
+               <p>ALmighty and moſt merciful Father, We have erred and ſtrayed from thy ways like loſt ſheep, We have followed too much the de<g ref="char:EOLhyphen"/>vices and deſires of our own hearts, We have offended againſt thy holy laws, We have left undone thoſe things which we ought to have done, And we have done thoſe things which we ought not to have done, And there is no health in us: But thou, O Lord, have mercy upon us miſerable offenders; Spare thou them, O God, which confeſs their faults; Reſtore thou them that are penitent, according to thy pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miſes de<g ref="char:EOLhyphen"/>clared unto mankind in Chriſt Ieſu out Lord; and grant, O moſt merciful Father, for his ſake, that we may hereafter live a godly, righ<g ref="char:EOLhyphen"/>teous, and ſober life, to the glory <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thy-holy Name. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:3"/>
+               <head>¶ <hi>The Abſolution to be pronounced by the Prieſt alone ſtanding; the people ſtill kneeling.</hi>
+               </head>
+               <p>ALmighty God, the Father of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt, who deſireth not the death of a ſinner, but rather that he may turn from his wickedneſs and live, and hath given power and commandment to his Miniſters, to declare and pronounce to his people, being penitent, the abſolution and remiſſion of their ſins: he pardoneth and abſolveth all them that truly re<g ref="char:EOLhyphen"/>pent, and unfeignedly believe his holy Goſpel. Wherefore let us beſeech him to grant us true repentance and his holy Spirit, that thoſe things may pleaſe him which we do at this pre<g ref="char:EOLhyphen"/>ſent, and that the reſt of our life hereafter may be pure and holy, ſo that at the laſt we may come to his eternal joy, through Ieſus Chriſt out Lord.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>The people ſhall anſwer here, and at the end of all other Prayers,</hi> Amen.</head>
+               <p>¶ <hi>Then ſhall the Miniſter kneel, and begin the Lords Prayer; the people alſo repeating it with him.</hi>
+               </p>
+               <p>OVr Father which art in heaven, hallowed be thy Name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our treſpaſſes, as we forgive them that treſpaſs a<g ref="char:EOLhyphen"/>gainſt us. And lead us not into temptation; But deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:4"/>
+               <head>¶ <hi>Then likewiſe he ſhall ſay,</hi>
+               </head>
+               <p>O Lord open thou our lips.</p>
+               <p>
+                  <hi>Anſw.</hi> And our mouth ſhall ſhew l'orth thy praiſe.</p>
+               <p>
+                  <hi>Prieſt.</hi> O God make ſpeed to ſave us.</p>
+               <p>
+                  <hi>Anſw.</hi> O Lord make haſte to help us.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Here all ſtanding up, the Prieſt ſhall ſay,</hi>
+               </head>
+               <p>Glory be to the Father, and to the Son, and to the holy Ghoſt.</p>
+               <p>
+                  <hi>Anſwer.</hi> As it was in the beginning, is now and ever ſhall be, world without end. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Prieſt.</hi> Praiſe ye the Lord.</p>
+               <p>
+                  <hi>Anſw.</hi> The Lords name be praiſed.</p>
+            </div>
+            <div type="part">
+               <head>¶ In ſtead of <hi>Venite exultemus,</hi> ſhall be ſung or ſaid this Hymn following; one Verſe by the Prieſt, and another by the Clerk and People.</head>
+               <p>O Come let us humble our ſelves before the <note place="margin">Pſal 65. 6.</note> Lord: and fall down before him with reve<g ref="char:EOLhyphen"/>rence and fear.</p>
+               <p>
+                  <hi>For he is the Lord our God: and we are the peo<g ref="char:EOLhyphen"/>ple <note place="margin">7.</note> of his paſture, and the ſheep of his hands.</hi>
+               </p>
+               <p>Let us repent and turn from our wickedneſs: <note place="margin">Act. 3. 19.</note> and our ſins ſhall be forgiven us.</p>
+               <p>
+                  <hi>For this ſhall every one that is godly, make his</hi> 
+                  <note place="margin">Pſal 32. 7.</note> 
+                  <hi>prayer unto thee, O Lord: in a time when thou may<g ref="char:EOLhyphen"/>eſt be found.</hi>
+               </p>
+               <p>In my trouble I will call upon the Lord, and <note place="margin">Pſal. 18. 2.</note> complain unto my God: ſo ſhall I be ſale from mine enemies.</p>
+               <p>
+                  <hi>So ſhall he hear my voice out of his holy temple:</hi> 
+                  <note place="margin">6.</note>
+                  <pb facs="tcp:61057:4"/> 
+                  <hi>and my complaint ſhall come before him, it ſhall en<g ref="char:EOLhyphen"/>ter even into his ears.</hi>
+               </p>
+               <p>Hear my prayer, O God: and let my crying <note place="margin">Pſ. 10<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1.</note> come unto thee.</p>
+               <p>
+                  <hi>Thou art my King, O God: ſend help unto Ja<g ref="char:EOLhyphen"/>cob.</hi> 
+                  <note place="margin">Pſal. 44. 5,</note>
+               </p>
+               <p>Through thee will we overthrow our ene<g ref="char:EOLhyphen"/>mies: <note place="margin">6,</note> and in thy Name will we tread them under, that riſe up againſt us.</p>
+               <p>
+                  <hi>For I will not truſt in my bow: it is not my</hi> 
+                  <note place="margin">7,</note> 
+                  <hi>ſword that ſhall help me.</hi>
+               </p>
+               <p>But it is thou that ſaveſt us from our e<g ref="char:EOLhyphen"/>nemies: <note place="margin">8.</note> and putteſt them to confuſion, that hate us.</p>
+               <p>
+                  <hi>There is no King that can be ſaved by the mul<g ref="char:EOLhyphen"/>titude</hi> 
+                  <note place="margin">Pſ. 33. 15.</note> 
+                  <hi>of an Hoſt: neither is any mighty man deli<g ref="char:EOLhyphen"/>vered by much ſtrength.</hi>
+               </p>
+               <p>Therefore in thee, O Lord, have I put my <note place="margin">Pſ. 31. 1,</note> truſt: let me never be put to confuſion; deli<g ref="char:EOLhyphen"/>ver me in thy righteouſneſs.</p>
+               <p>
+                  <hi>Bowe down thine ear to me, and ſave me: make</hi> 
+                  <note place="margin">2.</note> 
+                  <hi>haſte to deliver me.</hi>
+               </p>
+               <p>I will love thee, O Lord my ſtrength<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; the <note place="margin">Pſ. 18. 1.</note> Lord is my ſtony rock, and my defence: my Sa<g ref="char:EOLhyphen"/>viour, my God, and my might, in whom I will truſt, my buckler, the horn alſo of my ſalvation, and my refuge.</p>
+               <p>
+                  <hi>Behold the eye of the Lord is upon them that</hi> 
+                  <note place="margin">Pſ. 33. 17.</note> 
+                  <hi>fear him: and upon them that put their truſt in his mercy.</hi>
+               </p>
+               <p>O be favourable and gracious unto Sion: <note place="margin">Pſ. 51. 18.</note> build thou the walls of Ieruſalem.</p>
+               <p>
+                  <hi>Let thy merciful kindneſs, O Lord, be upon us:</hi> 
+                  <note place="margin">Pſ. 33. 21.</note> 
+                  <hi>like as we do put our truſt in thee.</hi>
+               </p>
+               <p>Glory be to the Father, and to the Son: and to the holy Ghoſt.</p>
+               <pb facs="tcp:61057:5"/>
+               <p>
+                  <hi>As it was in the beginning, is now, and ever ſhall be: world without end. Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Domine, quid multiplicati? Pſal.</hi> 3.</head>
+               <p>LOrd, how are they increaſed that trouble me: many are they that riſe againſt me.</p>
+               <p>Many one there be that ſay of my ſoul: there is no help for him in his God.</p>
+               <p>But thou, O Lord, art my defender: thou art my worſhip, and the lifter up of m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> head.</p>
+               <p>I did call upon the Lord with my voice: and he heard me out of his holy hill.</p>
+               <p>I laid me down and ſlept, and roſe up again: for the Lord ſuſtained me.</p>
+               <p>I will not be afraid for ten thouſands of the people: that have ſet themſelves againſt me round about.</p>
+               <p>Up, Lord, and help me, O my God: for thou ſmiteſt all mine enemies upon the cheek<g ref="char:EOLhyphen"/>bone; thou haſt broken the teeth o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the un<g ref="char:EOLhyphen"/>godly.</p>
+               <p>Salvation belongeth unto the Lord: and thy bleſſing is upon thy people.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Dominus illuminatio. Pſal.</hi> 27.</head>
+               <p>THe Lord is my light, and my ſalvation; whom then ſhall I fear: the Lord is the ſtrength of my life; of whom then ſhall I be afraid?</p>
+               <p>When the wicked, even mine enemies, and my foes came upon me to eat up my fleſh: they ſtumbled, and fell.</p>
+               <pb facs="tcp:61057:5"/>
+               <p>Though an hoſt of men were laid againſt me, yet ſhall not my heart be afraid: and though there roſe up war againſt me, yet will I put my truſt in him.</p>
+               <p>One thing have I deſired of the Lord, which I will require: even that I may dwell in the houſe of the Lord all the days of my life, to be<g ref="char:EOLhyphen"/>hold the fair beauty of the Lord, and to viſit his temple.</p>
+               <p>For in the time of trouble he ſhall hide me in his tabernacle: yea, in the ſecret place of his dwelling ſhall he hide me, and ſet me up upon a rock of ſtone.</p>
+               <p>And now ſhall he lift up mine head: above mine enemies round about me.</p>
+               <p>Therefore will I offer in his dwelling an ob<g ref="char:EOLhyphen"/>lation with great gladneſs: I will ſing, and ſpeak praiſes unto the Lord.</p>
+               <p>Hearken unto my voice, O Lord, when I cry unto thee: have mercy upon me, and hear m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>My heart hath talked of thee, Seek ye my face: thy face, Lord, will I ſeek.</p>
+               <p>O hide not thou thy face from me: nor caſt thy ſervant away in diſpleaſure.</p>
+               <p>Thou haſt been my <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cour: leave me not, neither forſake me, O God of my ſalvation.</p>
+               <p>When my father, and my mother forſake me: the Lord taketh me up.</p>
+               <p>Teach me thy way, O Lord: and lead me in the right way, becauſe of mine enemies.</p>
+               <p>Deliver me not over into the will of mine adverſaries<g ref="char:punc">▪</g> for there are falſe witneſ<g ref="char:EOLhyphen"/>ſes riſen up againſt me, and ſuch as ſpeak wrong.</p>
+               <p>I ſhould utterly have fainted: but that I be<g ref="char:EOLhyphen"/>lieve
+<pb facs="tcp:61057:6"/> derily to ſee the goodneſs of the Lord in the land of the living.</p>
+               <p>O tarry thou the Lords leiſure: be ſtrong, and he ſhall comfort thine heart, and put thou thy truſt in the Lord.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Ad t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Domin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Pſal.</hi> 28.</head>
+               <p>UNto thee will I cry, O Lord my ſtrength: think no ſcorn of me, leſt if thou make as though thou heareſt not, I become like them that go down into the pit.</p>
+               <p>Hear the voice of my humble petitions, when I cry unto thee: when I hold up my ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds to<g ref="char:EOLhyphen"/>wards the mercy-ſent of thy holy templ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>O pluck me not away, neither deſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy me with the ungodly, and wicked doers: which ſpeak friendly to their neighbours, but imagine miſchief in their hearts.</p>
+               <p>Reward them according to their deeds: and according to the wickedneſs of their own in<g ref="char:EOLhyphen"/>ventions.</p>
+               <p>Recompenſe them after the work of their hands: pay them that they have deſerved.</p>
+               <p>For they regard not in their mind the work<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Lord, nor the operation of his hands: therefore ſhall he break them down, and not build them up.</p>
+               <p>Praiſed be the Lord: for he hath heatd the voice of my humble petitions.</p>
+               <p>The Lord is my ſtrength, and my ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eld, my heart hath truſted in him, and I am helped: therefore my heart danceth for joy, and in my <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will I praiſe him.</p>
+               <pb facs="tcp:61057:6"/>
+               <p>The Lord is my ſtrength: and he is the wholeſom defence of his Anointed.</p>
+               <p>O ſave thy people, and give thy ble<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> un<g ref="char:EOLhyphen"/>to thine Inheritance: feed them, and ſet them up for ever.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Deus noſter refugium. Pſal.</hi> 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</head>
+               <p>GOd is our hope and ſtrength: a very pre<g ref="char:EOLhyphen"/>ſent help in trouble.</p>
+               <p>Therefore will we not fear though the earth be moved: and though the hills be carried into the midſt of the ſea.</p>
+               <p>Though the waters thereof rage and ſwell: and though the mountains ſhake at the tempeſt of the ſame.</p>
+               <p>The rivers of the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd thereof ſhall make glad the city of God: the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly place of the ta<g ref="char:EOLhyphen"/>bernacle of the moſt Higheſt.</p>
+               <p>God is in the midſt of her, therefore ſhall ſhe not be removed: God ſhall help her, and that right early.</p>
+               <p>The heathen make much ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the king<g ref="char:EOLhyphen"/>doms are moved: but God hath ſhewed his voice, and the earth ſhall melt away.</p>
+               <p>The Lord of hoſts is with us: the God of Iacob is our refuge.</p>
+               <p>O come hither, and behold the works of the Lord: what deſtruction he hath brought upon the earth.</p>
+               <p>He maketh wars to ceaſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d: he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaketh the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peth the ſpear in ſunder, and burneth the cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the fire.</p>
+               <pb facs="tcp:61057:7"/>
+               <p>Be ſtill then, and know that I am God I will be exalted among the heathen, and I will be ex<g ref="char:EOLhyphen"/>alted in the earth.</p>
+               <p>The Lord of hoſts is with us: the God of Ia<g ref="char:EOLhyphen"/>cob is our refuge.</p>
+            </div>
+            <div type="part">
+               <head>The firſt Leſſon appointed to be read is Iſaiah 58.</head>
+               <p>CRty aloud, ſpare not, lift up thy voice like a trumpet, and ſhew my people their trans<g ref="char:EOLhyphen"/>greſſion, and the houſe of Iacob their ſins. Yet they ſeek me daily, and delight to know any ways, as a nation that did righteouſneſs, and forſook not the ordinance of the it God: they as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of me the ordinances of Iuſtice: they take delight in approching to God. Wherefore have we faſted, ſay they, and thou ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt not? Wherefore have we a<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed our ſoul, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thou takeſt no knowledge? Behold, in the day of your faſt you find pleaſure, and exact all your labours. Behold, ye faſt for ſtrife and devate, and to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mite with the faſt of wickedneſs: ye ſhall not faſt as ye do this day, to make your voice to be heard on high. Is it ſuch a Faſt that I have choſen? a day for a man to afflict his ſoul? is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to bowe down his head as a bulr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h, and to ſpread ſack<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth and aſhes under him? wilt thou call this a Faſt, and an acceptable day to the Lord? Is not this the Faſt that I have choſen? to loaſe the bonds of whcked<g ref="char:EOLhyphen"/>neſs, to undo the heavy burdens, and to let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he oppreſſed go f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, and that ye <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eak eve<g ref="char:EOLhyphen"/>ry yoke? Is it not to deal thy brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the hungry, and that thou bring the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or that are caſt out, to thy houſe? when thou ſeeſt the
+<pb facs="tcp:61057:7"/> naked, that thou cover him, and that thou hide not thy ſelf from thine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fleſh? Their ſhall thy light break forth as the morning, &amp; thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> health ſhall ſpring forth ſpeedily: and thy righteouſneſs ſhall go before thee, the glory of the Lord ſhall be thy rereward. Then ſhall thou can, and the Lord ſhall anſwer: thou ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and he ſhall ſay, Here I am: if thou take away from the mindſt of thee the yoke, the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tting forth of the finger, and ſpeaking <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: And if <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> out thy ſoul to the <gap reason="illegible" resp="#KEYERS" extent="5 words">
+                     <desc>〈◊◊◊◊◊〉</desc>
+                  </gap> af<g ref="char:EOLhyphen"/>fected ſoul: then ſhall thy light ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty, and thy darkneſs he as the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-day. And the Lord ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſa<g ref="char:EOLhyphen"/>tisfie thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in dr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght, and make <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy houes, and thou ſhalt he like a watered <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>den, and like a ſpring of water, whoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ters fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not. And they that ſhall be of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> waſte places: thou thair <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up the foundations of many generati<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>; and thou <gap reason="illegible" resp="#KEYERS" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>, The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the breath, The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <gap reason="illegible" resp="#KEYERS" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap> in<g ref="char:punc">▪</g> If thou turn away thy foot from <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, from doing <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, on m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> and call the <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, honourable, and <gap reason="illegible" resp="#KEYERS" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>, not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ways, nor finding <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> own pleaſure, nor ſpeaking thine own words: Then ſhalt thou delight thy ſelf in the Lord, and I will cauſe thee to ride upon the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> places of the earth, and feed thee with the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Iacob thy fa<g ref="char:EOLhyphen"/>ther: for the mouth of the Lord hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:8"/>
+               <head>¶ After the Firſt Leſſon ſhall follow <hi>Te D<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> in Engliſh.</head>
+               <p>WE praiſe thee, O God: we acknowledge thee to be the Lord.</p>
+               <p>All the earth doth worſhip thee: the Father everlaſting.</p>
+               <p>To thee all Angels cry aloud: the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eavens, and all the powers therein.</p>
+               <p>To thee Therubin, and Seraphin: continu<g ref="char:EOLhyphen"/>ally do cry,</p>
+               <p>Holy, holy, holy: Lord God of Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth.</p>
+               <p>Heaven and earth are full of the Majeſty: of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glory.</p>
+               <p>The glorious company of the Apoſtles: praiſe thee.</p>
+               <p>The goodly fellowſhip of the Prophe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s: praiſe thee.</p>
+               <p>The noble army of Martyrs: praiſe thee.</p>
+               <p>The holy Church throughout all the world: doth acknowledge thee.</p>
+               <p>The Father: of an infinite Majeſty.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> honourable: true, and onely Son.</p>
+               <p>Alſo the holy Ghoſt: the Comforte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>Thou art the thing of glory: O Chriſt.</p>
+               <p>Thou art the everlaſting Son: of the Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>When thou tookeſt upon thee to deliver man: thou <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not ab<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Virgins won<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</p>
+               <p>When thou hadſt overcome the ſharpeneſs of death: thou didſt open the kingdom if heaven to all believers.</p>
+               <p>Thou <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſt at the right hand of God: in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Father.</p>
+               <pb facs="tcp:61057:8"/>
+               <p>We believe that thou ſhalt come: to be our Iudge.</p>
+               <p>We therefore pray thee hekp thy ſervants: whom thou haſt redeemed with thy precious bloud.</p>
+               <p>Make them to be numbred with thy Saints: in glory everlaſting.</p>
+               <p>O Lord ſave thy people: and bleſs thine heri<g ref="char:EOLhyphen"/>tage.</p>
+               <p>Govern them: and lift them up for ever.</p>
+               <p>Day by day: we magnifie thee.</p>
+               <p>And we worſhip thy Name: ever world with<g ref="char:EOLhyphen"/>out end.</p>
+               <p>Vouchſafe, O Lord: to keep us this day without ſin.</p>
+               <p>O Lord, have mercy upon us: have mercy upon us.</p>
+               <p>O Lord, let thy mercy lighten upon us: as our truſt is in thee.</p>
+               <p>O Lord, in the have I truſted: let me never be confounded.</p>
+            </div>
+            <div type="part">
+               <head>For the ſecond Leſſon, the One and twentieth Chap<g ref="char:EOLhyphen"/>ter of S. Luke.</head>
+               <p>ANd he looked up, and ſaw the rich men caſt<g ref="char:EOLhyphen"/>ing their gifts into the treaſury. And he ſaw alſo a certain poor widow caſting in thither <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mites. And he ſaid, Of a truth I ſaw unto you, that this poor widow hath caſt in more then they all. For all theſe have of their abundance caſt in unto the offerings of God, but ſhe of her pe<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y hath caſt in all the living that ſhe had. And as ſome ſpake of the temple, how it was adorned
+<pb facs="tcp:61057:9"/> with goodly ſtones, &amp; gifts, he ſaid, <hi>As for</hi> theſe things which ye behold, the days will come, in the which there ſhall not he left one tone up<g ref="char:EOLhyphen"/>on another, that ſhall not be thrown do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. And they asked him, ſaying, Maſter, but when ſhall theſe things be? and what ſign will there be when theſe things ſhall come to paſs? And he ſaid, Take heed that ye be not deceived: for many ſhall come in my name, ſaying, I am <hi>Chriſt,</hi> and the time draweth near: go ye not therefore after them. But when ye ſhall hear of Wars, and commotions, be not terrified: for theſe things muſt firſt come to paſs, but the end is not by and by. Then ſaid he unto-them, Na<g ref="char:EOLhyphen"/>tion ſhall riſe againſt nation, and kingdom a<g ref="char:EOLhyphen"/>gainſt kingdom: And great earthquakes ſhall be in divers places, and famines, and peſtilen<g ref="char:EOLhyphen"/>ces, and fearful ſights, and great ſigns ſhall there be from heaven. But before all theſe they ſhall lay their hands on you, and per<g ref="char:EOLhyphen"/>ſecute you, delivering you up to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſyna<g ref="char:EOLhyphen"/>gogues, and into priſons, being brought be<g ref="char:EOLhyphen"/>fore kings and rulers for my names ſake. And it ſhall turn to you for a teſtimony. Settle it therefore in your hearts, not to meditate before, what ye ſhall anſwer. For I will give you a mouth and wiſdom, which all your adverſa<g ref="char:EOLhyphen"/>ries ſhall not be able to gainſay, nor reſiſt. And ye ſhall be betrayed, hath by parents, and bre<g ref="char:EOLhyphen"/>thren, and kinsfolks, and friends, and ſome of you ſhall they cauſe to be put to death. And ye ſhall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hated of all man for my names ſake. But there ſhall not an hair of your head periſh. In your patience poſſeſsive your ſouls. And when ye ſhall ſee Ieruſalem compa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed with armies, then know that the deſolation thereof
+<pb facs="tcp:61057:9"/> is nigh. Then let them which are in Iude<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, flee to the mountains; and let them which are in the midſt of it, depart out; and let not them that are in the countreys, enter thereinto. For theſe be the days of vengeance, that all things which are written may be fulfilled. But wo unto them that are with child, and to them that give ſuck in thoſe days: for there ſhall be great diſtreſs in the land, and wrath upon this people. And they ſhall fall by the edge of the ſword, and ſhall be led away captive into all nations, and Ieruſalem ſhall be troden down of the Gentiles, until the times of the Gentiles be fulfilled. And there ſhall be ſigns in the ſun, and in the moon, and in the ſtars, and upon the earth diſtreſs of nations, with perplerity, the ſea and the waves roar<g ref="char:EOLhyphen"/>ing, mens hearts failing them for fear, and for looking after thoſe things which are coming on the earth; for the powers of heaven ſhall be ſhaken. And then ſhall they ſee the Son of man coming in a cloud with power and great glory. And when theſe things begin to come to paſs, then look up, and lift up your heads, for your redemption draweth nigh. And he ſpake to them a parable, Behold the fig-tree, and all the trees; When they now ſhoot forth, ye ſee and know of your own ſelves, that ſummer is now nigh at hand. So likewiſe ye, when ye ſee theſe things come to paſs, know ye that the kingdom of God is nigh at hand. Verily, I ſay unto you, This generation ſhall not paſs away, till all he fulfilled. Heaven and earth ſhall paſs away, but my words <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not paſs away. And take heed to your ſe<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb facs="tcp:61057:10"/> leſt at any time your hearts be overcharged with ſurfeting and drunkenneſs, and cares of this life, and ſo that day come upon you una<g ref="char:EOLhyphen"/>wares. For as a ſnare ſhall it come on all them that dwell on the face of the whole earth. Watch ye therefore, and pray always, that ye may be accounted worthy to eſcape all theſe things that ſhall come to paſs, and to ſtand before the Son of man. And in the day-time he was teaching in the temple, and at night he went out, and abode in the mount that is called the mount of Olives. And all the people came early in the morning to him in the temple, for to hear him.</p>
+               <p>BLeſſed be the Lord God of Iſrael: for he hath viſited and redeemed his people.</p>
+               <p>And hath raiſed up a mighty ſalva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion for us: in the houſe of his ſervant David.</p>
+               <p>As he ſpake by the mouth of his holy Prophets: which have been ſince the world began.</p>
+               <p>That we ſhould be ſaved from ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enemies: and from the hands of all that hate us.</p>
+               <p>To perform the mercy promiſed to our fore<g ref="char:EOLhyphen"/>fathers: and to remember his holy cove<g ref="char:EOLhyphen"/>nant.</p>
+               <p>To perform the oath which he ſware to our forefather Abraham: that he would give us;</p>
+               <p>That we being delivered out of the hands of our enemies: might ſerve him without fear;</p>
+               <p>In holineſs and righteouſneſs before him: all the days of our life.</p>
+               <p>And thou Child ſhalt be called the Prophet of the Higheſt: for thou ſhalt go before the face of the Lord to prepare his ways.</p>
+               <pb facs="tcp:61057:10"/>
+               <p>To give knowledge of ſalvation unto his people: for the remiſſion of their ſins.</p>
+               <p>Through the tender mercy of our God: whereby the day-ſpring from on high hath viſi<g ref="char:EOLhyphen"/>ted us.</p>
+               <p>To give light to them that ſit in darkneſs, and in the ſhadow of death: and to guide our feet into the way of peace.</p>
+               <p>
+                  <hi>Glory be to the Father, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ Then ſhall be ſaid the Creed by the Miniſter, and the people ſtanding.</head>
+               <p>I Believe in God the Father Almighty, Ma<g ref="char:EOLhyphen"/>ker of heaven and earth: And in Ieſus Chriſt his onely Son our Lord; who was conceived by the holy Ghoſt, born of the Virgin <hi>Mary,</hi> ſuffer<g ref="char:EOLhyphen"/>ed under <hi>Pontius Pilate;</hi> was crucified, dead and buried; he deſcended into hell; the third day he roſe again from the dead; he aſcended into heaven, and ſitteth on the right hand of God the Father Almighty; from thence he ſhall come to judge the quick and the dead. I believe in the holy Ghoſt, the holy Catholick Church, the Communion of Saints, the forgiveneſs of ſins, the reſurrection of the body, and the life everlaſting. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>And after that, theſe Prayers following, all de<g ref="char:EOLhyphen"/>voutly kneeling, the Miniſter firſt pronouncing with a loud voice,</hi>
+               </head>
+               <p>The Lord be with you.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And with thy ſpirit.</p>
+               <pb facs="tcp:61057:11"/>
+               <p>
+                  <hi>Miniſter.</hi>
+               </p>
+               <p>¶ Let us pray.</p>
+               <p>Lord have mercy upon us.</p>
+               <p>
+                  <hi>Chriſt have mercy upon us.</hi>
+               </p>
+               <p>Lord have mercy upon us.</p>
+            </div>
+            <div type="part">
+               <head>¶ Then the Miniſter, Clerks and people, ſhall ſay the Lords prayer with a loud voice.</head>
+               <p>OUr Father which art in heaven, hallowed be thy Name. Thy Kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d forgive us our treſpaſſes, as we forgive them that treſpaſs againſt us. And lead us not into temptation: but deliver us from evil. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ Then the prieſt ſtanding up, ſhall ſay,</head>
+               <p>O Lord ſhew thy mercy upon us.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And grant us thy ſalvation.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord ſave the King.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And mercifully hear us when wee call upon thee.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord ſave thy ſervants,</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Who do put their truſt in thee.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Send us help from thy holy place;</p>
+               <pb facs="tcp:61057:11"/>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And evermore mightily defend us.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Let the enemy have no advantage over us:</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Nor the wicked approch to hurt us.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Be unto us, O Lord, a ſtrong towre,</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>From the face of our enemies.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord hear our prayer,</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And let our cry come unto thee.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Indue thy Miniſters with righteouſneſs.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And make thy choſen people joyful.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord ſave thy people.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And bleſs thine inheritance.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Give peace in our time, O Lord.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Becauſe there is none other that fighteth for us, but onely thou, O God.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O God make clean our hearts within us.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And take not thy holy Spirit from us.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:12"/>
+               <head>¶ In ſtead of the firſt Collect at Morning Prayer ſhall theſe two be uſed.</head>
+               <p>
+                  <hi>O</hi> Moſt glorious, and powerful Lord God, who alone haſt ſpread out the hea<g ref="char:EOLhyphen"/>vens, and compaſſed the waters with bounds, untill night and day come to an end; We adore thy divine Majeſty, acknowledg<g ref="char:EOLhyphen"/>ing thy power, and imploring thy goodneſs. Be pleaſed to receive into thine Almigh<g ref="char:EOLhyphen"/>ty and moſt gracious protection the perſons of thy ſervants that fight for us, and the Ships and Navies in which they ſerve: preſerve them all from the dangers of the ſea, and from the violence of the enemy, and from every ſad accident: that they may be a ſafe<g ref="char:EOLhyphen"/>guard to our moſt gracious Sovereign, and his Kingdoms, and a ſecurity for ſuch as paſs on the ſeas upon their lawful occaſions. Help, Lord, and ſave them for thy mercies; ſake; that they may return in ſafety, with honour and vi<g ref="char:EOLhyphen"/>ctory, and good ſucceſs, to enjoy the bleſſings of the land, and the fruit of theſe labours; and that all the inhabitants of theſe Iſlands, being bleſt with plenty and proſperity, peace and qui<g ref="char:EOLhyphen"/>etneſs, may ſerve thee our God in righteouſ<g ref="char:EOLhyphen"/>neſs, and true holineſs, and with a thankful remembrance of all thy mercies may ever praiſe and glorifie thy holy Name, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O</hi> Almighty God, King of all kings, and Go<g ref="char:EOLhyphen"/>vernour of all things, whoſe power no crea<g ref="char:EOLhyphen"/>ture is able to, reſiſt, to whom it belongeth juſtly to puniſh ſinners, &amp; to be merciful to them that
+<pb facs="tcp:61057:12"/> truly repent; Save and deliver us, we humbly beſeech thee, from the hands of our enemies; abate their pride, aſſwage their malice, and con<g ref="char:EOLhyphen"/>found their devices, that we, being armed with thy defence, may be preſerved evermore from all perils, to glorifie thee, who art the only giver of all victory, through the merits of thy only Son Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Collect for Peace.</head>
+               <p>
+                  <hi>O</hi> God who art the Authour of Peace, and lover of Concord, in knowledge of whom ſtandeth our eternal life, whoſe ſervice is per<g ref="char:EOLhyphen"/>fect freedom, defend us thy humble ſervants in all aſſaults of our enemies, that we ſurely truſt<g ref="char:EOLhyphen"/>ing in thy defence, may not fear the power of a<g ref="char:EOLhyphen"/>ny adverſaries, through the might of Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>MOſt gracious and merciful Lord God, we thy moſt unworthy ſervants being deeply ſenſible of the calamitous condition of this Kingdom, involved in a War with Enemies abroad, and by the contrivances of the Adver<g ref="char:EOLhyphen"/>ſaries of True Religion, diſtracted with inte<g ref="char:EOLhyphen"/>ſtine differences and diviſions at home, do with all humility and ſincerity acknowledge and confeſs, That by our unthankfulneſs for thy wonderful mercies and deliverances, inſenſi<g ref="char:EOLhyphen"/>bleneſs and ſtupidity under thy manifold iudg<g ref="char:EOLhyphen"/>ments, impiety, and other daily provocations of thy vengeance, we have juſtly deſerved thy wrath and indignation againſt us. Wherefore we are here met together this day, deſiring with broken and penitent hearts to preſent our ſelves before the Throne of Grace, beſeeching
+<pb facs="tcp:61057:13"/> thee in mercy to pardon the great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffences of us thy ſervants, and the crying ſins of this Nation, to remove the evils which we now lie under, to avert thoſe judgments which we juſtly deſerve, to reconcile our d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferences, and heal our breaches, to unite ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearts in the profeſſion of the True Religion, which thine own right hand hath plante<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and eſta<g ref="char:EOLhyphen"/>bliſhed in this Kingdom, and in an holy con<g ref="char:EOLhyphen"/>verſation anſwerable thereunto. To which end we humbly beſéech thee abundantly to be<g ref="char:EOLhyphen"/>ſtow the choiceſt of thy bleſſings te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poral and ſpiritual, upon the Kings moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, and the High Court of Parliament, that all their conſultations may tend to the glory of thy great Name, the ſafe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y and ho<g ref="char:EOLhyphen"/>nour of the King, the advancement of Piety, and preſervation of the Church, and the ſecu<g ref="char:EOLhyphen"/>rity, peace and proſperity of all e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tates and conditions of men in this Kingdom. All which we humbly beg in the Name, and through the Mediation of thy Son and our bleſſed Savi<g ref="char:EOLhyphen"/>our. Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Collect for Grace.</head>
+               <p>O Lord our heavenly Father, Aln<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighty and everlaſting God, who haſt ſafely brought us to the beginning of this day, deſend us in the ſame with thy mighty power, and grant that this day we fall into no ſin, neither run into any kind of danger, but that all our d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings may be ordered by thy governance, to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o always that is righteous in thy ſight, through Ieſus Chriſt our Lord. <hi>Am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:13"/>
+               <head>¶ <hi>Here followeth the Litany.</hi>
+               </head>
+               <p>O God the Father of Heaven: have mercy up<g ref="char:EOLhyphen"/>on us miſerable ſinners.</p>
+               <p>
+                  <hi>O God the Father of Heaven: have mercy upon us miſerable ſinners.</hi>
+               </p>
+               <p>O God the Son, Redeemer of the world: have mercy upon us miſerable ſinners.</p>
+               <p>
+                  <hi>O God the Son, Redeemer of the world: have mercy upon us miſerable ſinners.</hi>
+               </p>
+               <p>O God the holy Ghoſt, proceeding from the Father and the Son: have mercy upon us mi<g ref="char:EOLhyphen"/>ſerable ſinners.</p>
+               <p>
+                  <hi>O God the holy Ghoſt, proceeding from the Fa<g ref="char:EOLhyphen"/>ther and the Son: have mercy upon us miſerable ſinners.</hi>
+               </p>
+               <p>O holy, bleſſed, and glorious Trinity, three Perſons and one God: have mercy upon us mi<g ref="char:EOLhyphen"/>ſerable ſinners.</p>
+               <p>
+                  <hi>O holy, bleſſed and glorious Trinity, three Per<g ref="char:EOLhyphen"/>ſons and one God: have mercy upon us miſerable ſinners.</hi>
+               </p>
+               <p>Remember not Lord out offences, nor the of<g ref="char:EOLhyphen"/>fences of our forefathers, neither take thou vengeance of our ſins: ſpace us good Lord, ſpare thy people whom thou haſt redeemed with thy moſt precious bloud, and he not angry with us for ever.</p>
+               <p>
+                  <hi>Spare us good Lord.</hi>
+               </p>
+               <p>From all evill and miſchief, from ſin, from the crafts and aſſaults of the devil, from thy wrath, and from everlaſting damnation.</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <pb facs="tcp:61057:14"/>
+               <p>From all blindneſs of heart, from pride, vain-glory, and hyp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criſie, from envy, hatred and malice, and all uncharitableneſs,</p>
+               <p>
+                  <hi>Good Lord-deliver us.</hi>
+               </p>
+               <p>From fornication, and all other deadly ſin, and from all the deceits of the world, the fleſh and the devil,</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>From lightning and tempeſt, from plague, peſtilence and famine, from battel and murder, and from ſudden death,</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>From all ſedition, privy conſpiracy, and rebel<g ref="char:EOLhyphen"/>lion, from all falſe doctrine, hereſie, and ſchiſm; from hardneſs of heart, and contempt of thy Word and Commandment,</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>By the myſtery of thy holy Incar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ation, by thy holy Nativity and Circumciſion, by thy Baptiſm, Faſting and Temptation,</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>By thine Agony and bloudy Sweat, by thy Croſs and Paſsion, by thy precio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Death and Burial, by thy glorious Reſurrection and Aſcenſion, and by the coming of the holy Ghoſt,</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>In all time of our tribulation, in all time of our we<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th, in the hour of death, and in the day of Iudgment,</p>
+               <p>
+                  <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>We ſinners do beſeech thee to hear us, O Lord God, and that it may pleaſe thee to rule and govern thy holy Church <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al in the right way.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <pb facs="tcp:61057:14"/>
+               <p>That it may pleaſe thee to keep and ſtrong<g ref="char:EOLhyphen"/>then in the true worſhipping of thee, in righ<g ref="char:EOLhyphen"/>teouſneſs and holineſs of life, thy ſervant <hi>Charles,</hi> ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt gracious King and Gover<g ref="char:EOLhyphen"/>nour.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to rule his heart in thy faith, fear, and love, and that he may ever<g ref="char:EOLhyphen"/>more have affiance in thee, and ever ſeek thy honour and glory.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to be his defender and keeper, giving him the victory over all his enemies.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thée to bleſs and pre<g ref="char:EOLhyphen"/>ſerve our gracious Queen <hi>Catherine, James</hi> Duke of <hi>York,</hi> and all the Royal Fa<g ref="char:EOLhyphen"/>mily.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to illuminate all Biſhops, Prieſts and Deacons, with true knowledge and underſtanding of thy Word, and that both by their preaching and living, they may ſet it forth and ſhew it accord<g ref="char:EOLhyphen"/>ingly.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee-to endue the Lords of the Council, and all the Nobility, with grace, wiſdom and underſtanding.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bleſs and keep the Magiſtrates, giving them grace to execute, Iuſtice, and to maintain Truth.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <pb facs="tcp:61057:15"/>
+               <p>That it may pleaſe thee to bleſs and keep all thy people.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to give to all Nati<g ref="char:EOLhyphen"/>ons, Unity, Peace and Concord.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to give us an heart to love and dread thee, and diligently to live after thy Commandments.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to give <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o all thy people increaſe of grace, to hear meekly thy Word, and to receive it with pure af<g ref="char:EOLhyphen"/>fection, and to bring forth the fruits of the Spirit.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bring into the way of truth, all ſuch as have erret, and are deceived.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to ſtrengthen ſuch as do ſtand, and to comfort and help the weak<g ref="char:EOLhyphen"/>hearted, and to raiſe up them that fall, and finally to beat down Satan u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der our feet.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to ſuccour, help, and comfort all that are in danger, neceſſity, and tribulation.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to preſerve all that travel by land or by water, all women labour<g ref="char:EOLhyphen"/>ing of child, all ſick perſons and young chil<g ref="char:EOLhyphen"/>dren, and to ſhew thy pity upon all priſoners and captives.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <pb facs="tcp:61057:15"/>
+               <p>That it may pleaſe thee to defend and pro<g ref="char:EOLhyphen"/>vide for the fatherleſs children and widows, and all that are deſolate and oppreſſed.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to have mercy upon all men.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to forgive our ene<g ref="char:EOLhyphen"/>mies, perſecutors, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anderers, and to turn their hearts.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to give and preſerve to our uſe the kindly fruits of the earth, ſo as in due time we may enjoy them.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to give us true re<g ref="char:EOLhyphen"/>pentance, to forgive us all our ſins, neg<g ref="char:EOLhyphen"/>ligences and ignorances, and to endue us with the grace of thy Holy Spirit, to a<g ref="char:EOLhyphen"/>mend our ſives according to thy holy Word.</p>
+               <p>
+                  <hi>We beſeech thee to hear us, good Lord.</hi>
+               </p>
+               <p>Son of God, we beſeech thee to hear us.</p>
+               <p>
+                  <hi>Son of God, we beſeech thee to hear us.</hi>
+               </p>
+               <p>O Lamb of God, that takeſt away the ſins of the world,</p>
+               <p>
+                  <hi>Grant us thy peace.</hi>
+               </p>
+               <p>O Lamb of God, that takeſt away the ſins of the world,</p>
+               <p>
+                  <hi>Have mercy upon us.</hi>
+               </p>
+               <p>O Chriſt hear us.</p>
+               <p>
+                  <hi>O Chriſt hear us.</hi>
+               </p>
+               <p>Lord have mercy upon us.</p>
+               <p>
+                  <hi>Lord have mercy upon us.</hi>
+               </p>
+               <pb facs="tcp:61057:16"/>
+               <p>Chriſt have mercy upon us.</p>
+               <p>
+                  <hi>Chriſt have mercy upon us.</hi>
+               </p>
+               <p>Lord have mercy upon us.</p>
+               <p>
+                  <hi>Lord have mercy upon us.</hi>
+               </p>
+               <p>Our Father which art in Heaven, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord, deal not with us after our ſins.</p>
+               <p>
+                  <hi>Anſw.</hi>
+               </p>
+               <p>Neither reward us after our iniquities.</p>
+            </div>
+            <div type="part">
+               <head>Let us pray.</head>
+               <p>O God, merciful Father, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſpiſeſt not the ſighing of a contrite heart, nor the de<g ref="char:EOLhyphen"/>ſire of ſuch as be ſorrowful; mercifully aſſiſt our prayers that we make before thee, in all our troubles and adverſities, whenſoever they op<g ref="char:EOLhyphen"/>preſs us: and graciouſly hear us, that thoſe evils, which the craft and ſubtilty of the devil or man worketh againſt us, be brought to nought, and by the providence of thy goodneſs they may be diſperſed, that we thy ſervants <g ref="char:punc">▪</g> being hurt by no perſecutions, may evermore give thanks unto thee in thy holy Church, through Ieſus Chriſt our Lord.</p>
+               <p>
+                  <hi>O Lord, ariſe, help us, and deliver us, for thy Names ſake.</hi>
+               </p>
+               <p>O God, we have heard with our ears, and our fathers have declared unto us, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oble works that thou didſt in their days, and in the old time before them.</p>
+               <p>
+                  <hi>O Lord, ariſe, help us, and delive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> us, for thine honour.</hi>
+               </p>
+               <p>Glory be to the Father, and to the Son: and to the holy Ghoſt;</p>
+               <pb facs="tcp:61057:16"/>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>As it was in the beginning, is now, and ever ſhall be a world without end. Amen.</p>
+               <p>From our enemies defend us, O Chriſt.</p>
+               <p>
+                  <hi>Graciouſly look upon our afflictions.</hi>
+               </p>
+               <p>Pitifully behold the ſorrows of our hearts.</p>
+               <p>
+                  <hi>Mercifully forgive the ſins of thy people.</hi>
+               </p>
+               <p>Favourably with mercy hear our prayers.</p>
+               <p>
+                  <hi>O Son of David; have mercy upon us.</hi>
+               </p>
+               <p>Both now and ever vouchſafe to hear us, &amp; Chriſt.</p>
+               <p>
+                  <hi>Graciouſly hear us, O Chriſt;</hi>
+               </p>
+               <p>
+                  <hi>Graciouſly hear us, O Lord Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord, let thy mercy be ſhewed upon us.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>As we do put our truſt in thee.</p>
+            </div>
+            <div type="part">
+               <head>Let us pray.</head>
+               <p>WE humbly beſeech thee, O Father, mer<g ref="char:EOLhyphen"/>cifully to look upon our infirmities, and for the glory of thy Name, euen from us all thoſe evils that we moſt righteou<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> have deſerved: and grant that in all our troubles, we may put our whole truſt an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> confidence in thy mercy, and evermore ſerve thee in holineſs and pureneſs of living, to thy honour and glory, through our only Me<g ref="char:EOLhyphen"/>diatour and Advocate, Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty &amp; everlaſting God, who hateſt no<g ref="char:EOLhyphen"/>thing that thou haſt-made, and doſt forgive the ſins of all them that are penitent; Create &amp; make in us new and contrite hearts; that we
+<pb facs="tcp:61057:17"/> worthily lamenting our ſins, and acknow<g ref="char:EOLhyphen"/>ledging our wretchedneſs, may obtain of thee, the God of all mercy, perfect remiſſion &amp; forgive<g ref="char:EOLhyphen"/>neſs, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Lord, we beſeech thee, mercifully hear our prayers, and ſpare all thoſe who confeſs their ſins unto thee, that they whoſe conſciences by ſin are accuſed, by thy merciful pardon may be abſolved, through Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Moſt mighty God, and merciful Father, who haſt compaſſion upon all men, and ha<g ref="char:EOLhyphen"/>teſt nothing y<hi rend="sup">•</hi> thou haſt made, who wouldeſt not the death of a ſinner, but that he ſhould rather turn from his ſin, and be ſaved; Mercifully for<g ref="char:EOLhyphen"/>give us our treſpaſſes; receive and comfort us, who are grieved and wearied with the bur<g ref="char:EOLhyphen"/>then of our ſins. Thy property is always to have mercy; to thee only it appertaineth to for<g ref="char:EOLhyphen"/>give ſins. Spare us therefore, good Lord, ſpare thy people, whom thou haſt redeemed enter not into judgment with thy ſervants, who are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vile earth, and miſerable ſinners; but ſo turn thine anger from us, who meekly acknowledge our vileneſs, and truly repent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us of our faults; and ſo make haſte to help us in thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worſt, that we may ever live with thee in the world to come, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Then ſhall the people ſay this that followeth, after the Miniſter.</hi>
+               </head>
+               <p>TVrn thou us, O good Lord, and ſo ſhall we be turned. Be favourable, O Lord, be fa<g ref="char:EOLhyphen"/>vourable to thy people, Who turn to thee in weeping, faſting, and praying. For thou art a
+<pb facs="tcp:61057:17"/> merciful God, Full of compaſsion, Long-ſuf<g ref="char:EOLhyphen"/>fering, and of great pity. Thou ſpareſt when we deſerve puniſhment, And in thy wrath think<g ref="char:EOLhyphen"/>eſt upon mercy. Spare thy people, good Lord, ſpare them, And let not thine heritage be brought to confuſion. Hear us, O Lord, for thy mercy is great, And after the multi<g ref="char:EOLhyphen"/>tude of thy mercies, look upon us, Through the merits and mediation of thy bleſſed Son Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Almighty God, and our moſt gracious Fa<g ref="char:EOLhyphen"/>ther, the Sovereign Commander of all the world, in whoſe hand is power and might, which none is able to withſtand: Thou art the Lord of hoſts, the God of battels, and the ſtrength of all Nations. If thou keepeſt not the City, and the Kingdom, the Watchman waketh but in vain: Nor can victory wait upon the juſteſt Deſigns, upon the wiſeſt Counſels, upon the ſtrongeſt Armies, unleſs thou teacheſt their hands to war, and their fingers to fight. Thou art the ſteddy Hope of all the ends of the earth; and of them which remain in the broad Sea. Go forth, we humbly beſeech thee, at this time by thy more eſpecial aſſiſtance with His Majeſties Fleet, and Naval Forces, and bleſs them all. In all their Counſels let Wiſdom lead them; in all their Enterpriſes Courage aſſiſt them; and thy bleſſing every where crown them with victory, and good ſuc<g ref="char:EOLhyphen"/>ceſs: That ſo they may at laſt bring back Ho<g ref="char:EOLhyphen"/>nour to our Sovereign; ſafety and ſtrength to theſe his Kingdoms, and to all his Subjects plenty and proſperity, and a faſting peace: And ſmally that by theſe, and all thy mercies we may
+<pb facs="tcp:61057:18"/> be ſtill more engaged to a true and real thank<g ref="char:EOLhyphen"/>fulneſs to thee our God, ſuch as may appear in our lives by an humble, holy, and obedient walking before thee all our days. Erant this, O merciful Father, for thy Son Ieſus Chriſt his ſake. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A Prayer of S. Chryſoſtom.</head>
+               <p>ALmighty God, who haſt given us grace at this time with one accord, to make our common ſupplications unto thee; and doſt pro<g ref="char:EOLhyphen"/>miſe that when two or three are gathered toge<g ref="char:EOLhyphen"/>ther in thy Name, thou wilt grant their re<g ref="char:EOLhyphen"/>queſts; Fulfil now, O Lord, the deſires and pe<g ref="char:EOLhyphen"/>titions of thy ſervants, as may be muſt expedi<g ref="char:EOLhyphen"/>ent for them, granting us in this world know<g ref="char:EOLhyphen"/>ledge of thy truth, and in the worth to come life everlaſting. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>2 Corinth. 13. 14.</head>
+               <p>THe grace of our Lord Ieſus Chriſt, and the love of God, and the fellowſhip of the holy Ghoſt be with us all evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="order_of_service">
+            <head>The Communion-Service.</head>
+            <div type="part">
+               <head>¶ <hi>The Prieſt ſtanding at the North-ſide of the Lords Table, ſhall ſay,</hi>
+               </head>
+               <p>OVr Father, which art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our treſ<g ref="char:EOLhyphen"/>paſſes, as we forgive them that treſpaſs againſt us. And lead us not into temptation: but de<g ref="char:EOLhyphen"/>liver us from evil. <hi>Amen.</hi>
+               </p>
+               <pb facs="tcp:61057:18"/>
+               <p>ALmighty God, unto whom all hearts be o<g ref="char:EOLhyphen"/>pen, all deſires known, and from whom no ſecrets are hid; Cleanſe the thoughts of our hearts by the inſpiration of thy holy Spirit, that we may perfectly love thee, and worthily magni<g ref="char:EOLhyphen"/>fie thy holy Name, through Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi>
+               </p>
+               <p>GOd ſpake theſe words, and ſaid, I am the Lord thy God: Thou ſhalt have none other gods but me.</p>
+               <p>
+                  <hi>People.</hi>
+               </p>
+               <p>
+                  <hi>Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi>
+               </p>
+               <p>Thou ſhalt not make to thy ſelf any graven I<g ref="char:EOLhyphen"/>mage, nor the likeneſs of any thing, that is in heaven above, or in the earth beneath, or in the water under the earth. Thou ſhalt not how down to them, nor worſhip them; for I the Lord thy God am a jealous God, and viſit the ſins of the fathers upon the children, unto the third and fourth generation of them that hate me, and ſhew mercy unto thouſands in them that love me, and keep my commandments.</p>
+               <p>
+                  <hi>People.</hi>
+               </p>
+               <p>
+                  <hi>Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi>
+               </p>
+               <p>Thou ſhalt not take the Name of the Lord thy God in vain; for the Lord will not hold him guiltleſs, that taketh his Name in vain.</p>
+               <p>
+                  <hi>People.</hi>
+               </p>
+               <p>
+                  <hi>Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <pb facs="tcp:61057:19"/>
+               <p>
+                  <hi>Miniſter.</hi> Remember that thou keep holy the Sabbath<g ref="char:EOLhyphen"/>day. Sir days ſhalt thou labour and do all that thou haſt to do, but the ſeventh day is the Sab<g ref="char:EOLhyphen"/>bath of the Lord thy God. In it thou ſhalt do no manner of work, thou, and thy ſon, and thy daughter, thy man-ſervant, and thy maid-ſer<g ref="char:EOLhyphen"/>vant, thy cattel, and the ſtranger that is with<g ref="char:EOLhyphen"/>in thy gates. For in ſir days the Lord made heaven and earth, the ſea, and all that in them is, and reſted the ſeventh day; wherefore the Lord bleſſed the ſeventh day, and hallowed it.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi> Donour thy father and thy mother, that thy days may be long in the land, which the Lord thy God giveth thee.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi> Thou ſhalt do no murder.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and incline ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi> Thou ſhalt not commit adultery.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi> Thou ſhalt not ſteal.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <pb facs="tcp:61057:19"/>
+               <p>
+                  <hi>Miniſter.</hi> Thou ſhalt not hear falſe witneſs againſt thy neighbour.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and incline our hearts to keep this law.</hi>
+               </p>
+               <p>
+                  <hi>Miniſter.</hi> Thou ſhalt not covet thy neighbours houſe, thou ſhalt not covet thy neighbours wife, nor his ſervant, nor his maid, nor his or, nor his aſs, nor any thing that is his.</p>
+               <p>
+                  <hi>People. Lord, have mercy upon us, and write all theſe thy laws in our hearts, we beſeech thee.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Let us pray.</head>
+               <p>ALmighty God, whoſe kingdom is everlaſt<g ref="char:EOLhyphen"/>ing, and power infinite; Have mercy upon the whole Church, and ſo rule the heart of thy choſen ſervant CHARLES our King and Gover<g ref="char:EOLhyphen"/>nour, that he (knowing whoſe Miniſter he is) may above all things ſeek thy honour and glory: And that we and all his Subjects (duly conſi<g ref="char:EOLhyphen"/>dering whoſe authority he hath) may faithfully ſerve, honour, and humbly obey him, in thee, and for thee, according to thy bleſſed Word and Or<g ref="char:EOLhyphen"/>dinance, through Ieſus Chriſt our Lord, who with thee and the holy Ghoſt, liveth and reign<g ref="char:EOLhyphen"/>eth ever one God, world without end. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O</hi> Moſt glorious, and powerful Lord God, who alone haſt ſpread out the heavens, and compaſſed the waters with bounds, until night and day come to an end; We adore thy divine Majeſty, acknowledging thy power, and im<g ref="char:EOLhyphen"/>ploring thy goodneſs, Be pleaſed to receive
+<pb facs="tcp:61057:20"/> into thine Almighty and moſt gracious pro<g ref="char:EOLhyphen"/>tection the perſons of thy ſervants that fight for us, and the Ships and Navies in which they ſerve: preſerve them all from the dan<g ref="char:EOLhyphen"/>gers of the Sea, and from the violence of the Enemy, and from every ſad accident: that they may be a ſafe-guard to our moſt gra<g ref="char:EOLhyphen"/>cious Sovereign, and his Kingdoms, and a ſecurity for ſuch as paſs on the ſeas upon their lawful occaſions. Help, Lord, and ſave them for thy mercies ſake; that they may return in ſafety, with honour and victory, and good ſucceſs, to enjoy the bleſſings of the land, and the fruit of their labours; and that all the Inhabitants of theſe Iſlands, being bleſt with plenty and pro<g ref="char:EOLhyphen"/>ſperity, peace and quietneſs, may ſerve thee our God in righteouſneſs, and true holineſs; and with a thankful remembrance of all thy mercies may ever praiſe and glorifie thy holy Name, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O</hi> Almighty God, King of all kings, and Go<g ref="char:EOLhyphen"/>vernour of all things, whoſe power no creature is able to reſiſt, to whom it belongeth juſtly to puniſh ſinners, and to be merciful to them that truly repent; Save and deliver us, we humbly beſeech thee, from the hands of our enemies; abate their pride, aſwa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e their ma<g ref="char:EOLhyphen"/>lice, and confound their devices, that we, be<g ref="char:EOLhyphen"/>ing armed with thy defence, may be preſerved evermore from all perils, to glorifie thee, who art the only giver of all victory, through the me<g ref="char:EOLhyphen"/>rits of thy only Son Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:20"/>
+               <head>The Epiſtle. Epheſ. VI. 10.</head>
+               <p>FInally, my brethren, be ſtrong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to ſtand againſt the wiles of the devil. For we wre<g ref="char:EOLhyphen"/>ſtle not againſt fleſh and bloud, but againſt prin<g ref="char:EOLhyphen"/>cipalities, againſt powers, againſt the rulers of the darkneſs of this world, againſt ſpiritual<g ref="char:EOLhyphen"/>wickedneſs in high places. Wherefore take unto you the whole armour of God: that ye may be able to withſtand in the evil day, and ha<g ref="char:EOLhyphen"/>ving done all, to ſtand. Stand therefore, ha<g ref="char:EOLhyphen"/>ving your loyns girt about with truth, and ha<g ref="char:EOLhyphen"/>ving on the breaſt-plate of righteouſneſs: And your feet ſhod with the preparation of the goſ<g ref="char:EOLhyphen"/>pel of peace. Above all, taking the ſhield of faith, wherewith ye ſhall be able to quench all the fiery darts of the wicked. And take the helmet of ſalvation, and the ſword of the Spi<g ref="char:EOLhyphen"/>rit, which is the word of God. Praying al<g ref="char:EOLhyphen"/>ways with all prayer and ſupplication in the ſpirit, and watching thereunto with all per<g ref="char:EOLhyphen"/>ſeverance.</p>
+            </div>
+            <div type="part">
+               <head>The Goſpel. S. Matthew V. 1.</head>
+               <p>ANd Ieſus ſeeing the multitudes, went up into a mountain; and when he was ſet, his diſcioles came unto him. And he opened his mouth and taught them, ſaying, Bleſſed are the poor in ſpirit: for theirs is the kingdom of heaven. Bleſſed are they that mourn: for they ſhall be comforted. Bleſſed are the meek: for they ſhall inherit the earth. Bleſſed are they which do hunger and thirſt after righteouſneſs: for they ſhall be filled. Bleſſed are the merci<g ref="char:EOLhyphen"/>full:
+<pb facs="tcp:61057:21"/> for they ſhall obtain mercy. Bleſſed are the pure in heart: for they ſhall ſee God. Bleſſed are the peace-makers: for they ſhall be called the children of God. Bleſſed are they which are perſecuted for righteouſneſs ſake: for theirs is the kingdom of heaven. Bleſſed are ye, when men ſhall revile you, and perſe: ute you, and ſhall ſay all manner of evil againſt you falſly for my ſake: Rejoyce, and be e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceeding glad: for great is your reward in heaven: for ſo perſecuted they the prophets which were be<g ref="char:EOLhyphen"/>fore you.</p>
+               <p>I Believe in one God, the Father Almighty, maker of heaven and earth, and of all things viſible and inviſible:</p>
+               <p>And in one Lord Ieſus Chriſt, the only be<g ref="char:EOLhyphen"/>gotten Son of God, begotten of his Father be<g ref="char:EOLhyphen"/>fore all worlds, God of God, Light of Light, very God of very God, begotten, not made, being of one ſubſtance with the Father, by whom all things were made: who for us men, and for our ſalvation, came down from heaven, and was incarnate by the holy Ghoſt of the Vir<g ref="char:EOLhyphen"/>gin. Mary, and was made man, and was cru<g ref="char:EOLhyphen"/>cified alſo for us under <hi>Pontius Pilate,</hi> He ſuffer<g ref="char:EOLhyphen"/>ed, and was buried, and the third day he roſe again, according to the Scriptures, and aſcen<g ref="char:EOLhyphen"/>ded into heaven, and ſitteth on the right hand of the Father. And he ſhall come again with glory to judge both the quick and the dead: whoſe kingdom ſhall have no end.</p>
+               <p>And I believe in the holy Ghoſt, the Lord and giver of life, who proceedeth from the Fa<g ref="char:EOLhyphen"/>ther and the Son, who with the Father and the Son together is worſhipped and glorified, who ſpake by the Prophets. And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> believe
+<pb facs="tcp:61057:21"/> one Catholick and Apoſtolick Church. I ac<g ref="char:EOLhyphen"/>knowledge one Baptiſm for the remiſſion of ſins. And I look for the reſurrection of the dead, and the life of the world to come. Amen.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Then followeth the Sermon; and after that ſhall be ſaid.</hi>
+               </head>
+               <p>LEt your light ſo ſhine before men, that they <note place="margin">s. Matt. 5. 16.</note> may ſee your good works, and glorifie your Father which is in heaven.</p>
+               <p>Lay not up for your ſelves treaſures upon <note place="margin">S. Matt. 6. 19, 20.</note> earth, where moth and ruſt doth corrupt, and where thieves break through and ſteal: but lay up for your ſelves treaſures in heaven, where neither moth nor ruſt doth corrupt, and where thieves do not break through nor ſteal.</p>
+               <p>
+                  <hi>Let us pray for the whole ſtate of Chriſts Church militant here on earth.</hi>
+               </p>
+               <p>ALmighty and everliving God, who by thy holy Apoſtle haſt taught us to make prayers and ſupplications, and to give thanks for all men; We humbly beſeech thee moſt merci<g ref="char:EOLhyphen"/>fully <hi>(to accept our alms and oblations, and)</hi> to re<g ref="char:EOLhyphen"/>ceive theſe our prayers, which we offer unto <note place="margin">If there be no alms or oblati<g ref="char:EOLhyphen"/>ons, then ſhall the words <hi>(of accept<g ref="char:EOLhyphen"/>ing our alms and oblatious)</hi> be left out un<g ref="char:EOLhyphen"/>ſaid.</note> thy divine Majeſty, beſeeching thee to inſpire continually the Vniverſal Church with the ſpi<g ref="char:EOLhyphen"/>rit of truth, unity and concord: and grant that all they that do confeſs thy holy Name, may agree in the truth of thy holy Word, and live in unity and godly love. We beſeech thee alſo to ſave and defend all Chriſtian Kings, Princes, and Governours, and eſpecially thy ſervant <hi>CHARLES</hi> our King, that under him we may be godly and quietly governed. And grant unto his whole Council, &amp; to all that are put in Au<g ref="char:EOLhyphen"/>thority under him, that they may truly and in<g ref="char:EOLhyphen"/>differently
+<pb facs="tcp:61057:22"/> miniſter juſtice, to the puniſhment of wickedneſs and vice, and to the maintenance of thy true Religion and vertue. Give grace, O heavenly Father, to all Biſhops, and Cu<g ref="char:EOLhyphen"/>rates, that they may both by their life and doctrine ſet forth thy true and lively Word, and rightly and duely adminiſter thy holy Sacra<g ref="char:EOLhyphen"/>ments. And to all thy people give thy heaven<g ref="char:EOLhyphen"/>ly grace, and eſpecially to this Congrega<g ref="char:EOLhyphen"/>tion here preſent, that with meek heart and due reverence they may hear and receive thy holy Word, truly ſerving thee in holineſs and righteouſneſs all the days of their life. And we moſt humbly beſeech thee of thy goodneſs, O Lord, to comfort and ſuccour all them who in this tranſitory life are in trouble, ſorrow, need, ſickneſs, or any other adverſity. And we alſo bleſs thy holy Name, for all thy ſervants departed this life in thy faith and fear; be<g ref="char:EOLhyphen"/>ſeeching thee to give us grace ſo to follow their good examples, that with them we may be par<g ref="char:EOLhyphen"/>takers of thy heavenly kingdom. Grant this, O Father, for Ieſus Chriſts ſake our only Medi<g ref="char:EOLhyphen"/>atour and Advocate. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Then ſhall be added the prayers following.</hi>
+               </head>
+               <p>WE humbly acknowledge before thee, O merciful Father, that all the puniſh<g ref="char:EOLhyphen"/>ments threatned in thy Law againſt ſinners, might juſtly fall upon us, by reaſon of our ma<g ref="char:EOLhyphen"/>nifold tranſgreſſions; and eſpecially our great unthankfulneſs for thy unſpeakable mercies towards us. But though our crying ſins call aloud for thy wrath and vengeance to be pour<g ref="char:EOLhyphen"/>ed down upon us; yet there is mercy with thee, O Lord, that thou mayeſt be feared; and with
+<pb facs="tcp:61057:22"/> thee our God there is plenteous Redemption. Oh enter not into Iudgement with thy ſer<g ref="char:EOLhyphen"/>vants: For if thou ſhouldeſt be extreme to mark what we have done amiſs; O Lord, who will be able to abide it: At the Foot<g ref="char:EOLhyphen"/>ſtool of the Throne of thy Grace we pra<g ref="char:EOLhyphen"/>ſtrate our ſouls and bodies, with faſting, tears and ſupplications. Look down graci<g ref="char:EOLhyphen"/>ouſly upon us, we humbly beſeech thee, from the habitation of thy Holineſs, and of thy Glo<g ref="char:EOLhyphen"/>ry; and for the all-ſatisfying Death, and Paſ<g ref="char:EOLhyphen"/>ſion of thy bleſſed Son, accept this our unfeign<g ref="char:EOLhyphen"/>ed Submiſſion, and Humiliation. O deliver us from all our ſins; and then our enemies cannot hurt us: Let us ever remember, what thou haſt ſo ſtrictly enjoyn'd, That when y <note place="margin">Deut. 23.</note> Hoſt goeth forth againſt-our enemies, we ſhould then eſpecially keep our ſelves from every wicked thing. Vnite our hearts, that we may fear thy Name; and then we need not fear what man can do unto us. O let our ways be ſuch, as may pleaſe thee, that Thou mayeſt make, even our enemies, to be at peace with us here; and when we have accompliſhed our Warfare upon earth, maiſt admit us to the bleſſed Viſion of everlaſting Peace in thine own glorious preſence, through his Merit, and Mediation, who is both the Lord of Hoſts, and the Prince of Peace, Ieſus Chriſt our Lord and bleſſed Saviour. <hi>Amen.</hi>
+               </p>
+               <p>O God, the Protector of all that truſt in Thee, without whom nothing is ſtrong, nothing is holy; who knoweſt us to be ſet in the midſt of ſo many, and ſo great dangers, and feeſt, that we have no power of our ſelves to
+<pb facs="tcp:61057:23"/> help our ſelves; Mercifully look upon our in<g ref="char:EOLhyphen"/>firmities; Raiſe up thy power, and come a<g ref="char:EOLhyphen"/>mong us, and with great might ſuccour us: and in all our dangers and neceſſities ſtretch forth the right hand of thy Majeſty to help, and defend us againſt all our enemies. Look, we pray thee, upon the hearty deſires of thy hum<g ref="char:EOLhyphen"/>ble ſervants; Encreaſe and multiply upon us thy mercies; that we, who for our evil dee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s do worthily deſerve to be puniſhed, by the comfort of thy grace may mercifully be relieved: and that Thou being our Saviour and Deliverer, our Ruler, and our Guide, we may ſo paſs the waves of this troubleſom World, that finally we may come to the land of everlaſting life, there to reign with Thee world without end, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty God, who haſt promiſed to hear the petitions of them that ask in thy Sons Name, we beſeech thee mercifully to incline thine ears to us that have made now our pray<g ref="char:EOLhyphen"/>ers and ſupplications unto thee, and grant that thoſe things which we have faithfully asked ac<g ref="char:EOLhyphen"/>cording to thy will, may effectually be obtained to the relief of our neceſſity, and to the ſetting forth of thy glory, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Then the Prieſt ſhall let them depart with this bleſſing.</hi>
+               </head>
+               <p>THe peace of God which paſſeth all under<g ref="char:EOLhyphen"/>ſtanding, keep your hearts and minds in the knowledge and love of God, and of his Son Ieſus Chriſt our Lord; and the bleſſing of God Almighty, the Father, the Son, and the holy Ghoſt, be amongſt you, and remain with you always. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="order_of_service">
+            <pb facs="tcp:61057:23"/>
+            <head>The Order for Evening PRAYER.</head>
+            <div type="part">
+               <head>¶ <hi>Let him that miniſtreth read with a loud voice, one or more of theſe ſen<g ref="char:EOLhyphen"/>tences of Scripture, and then ſay the Exhortation that followeth.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">R</seg>Ent your heart, and not your <note place="margin">Joel 2. 13.</note> garments, and turn unto the Lord your God, for he is gracious, and merciful, ſlow to anger, and of great kind<g ref="char:EOLhyphen"/>neſs, and repenteth him of the evil.</p>
+               <p>To the Lord our God <note place="margin">Dan. 9. 9 10</note> belong mercies, and for<g ref="char:EOLhyphen"/>giveneſs, though we have rebelled againſt him: neither have we obeyed the voice of the Lord our God, to walk in his laws, which he ſet be<g ref="char:EOLhyphen"/>fore us.</p>
+               <p>O Lord, correct me, but with judgment; not <note place="margin">Jer. 10 24</note> in thine anger, leſt thou bring me to nothing.</p>
+               <p>DEarly beloved brethren, the Scripture moveth us in ſundry places, to acknow<g ref="char:EOLhyphen"/>ledge and confeſs our manifold ſins and wick<g ref="char:EOLhyphen"/>edneſs, and that we ſhould not diſſemble nor cloke them before the face of Almighty God
+<pb facs="tcp:61057:24"/> our heavenly Father, but confeſs them with an humble, lowly, penitent, and obedient heart, to the end that we may obtain forgiveneſs of the ſame, by his infinite goodneſs and mercy. And although we ought at all times humbly to acknowledge our ſins before God, yet ought we moſt chiefly ſo to do, when we aſſemble and meet together, to render thanks for the great benefits that we have received at his hands, to ſet forth his moſt worthy praiſe, to hear his moſt holy word, and to ask thoſe things which are requiſite and neceſſary, as well for the body as the ſoul: Wherefore I pray and beſeech you as many as are here preſent, to accompany me with a pure heart and humble voice, unto the throne of the heavenly grace, ſaying after me.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>The Confeſſion to be ſaid of the whole Congrega<g ref="char:EOLhyphen"/>tion after the Miniſter, all kneeling.</hi>
+               </head>
+               <p>ALmighty and moſt merciful Father, We have erred and ſtrayed from thy ways like loſt ſheep, We have followed too much the de<g ref="char:EOLhyphen"/>vices and deſires of our own hearts, We have offended againſt thy holy laws, We have left undone thoſe things which we ought to have done, And we have done thoſe things which we ought not to have done, And there is no health in us: But thou, O Lord, have mercy upon us miſerable offenders; Spare thou them, O God, which confeſs their faults; Reſtore thou them that are penitent, According to thy promiſes de<g ref="char:EOLhyphen"/>clared unto mankind in Chriſt Ieſu our Lord; And grant, O moſt merciful Father, for his ſake, that we may hereafter live a godly, righ<g ref="char:EOLhyphen"/>teous, and ſover life, to the glory of thy holy Name. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:24"/>
+               <head>¶ <hi>The Abſolution to be pronounced by the Prieſt alone ſtanding; the people ſtill kneeling.</hi>
+               </head>
+               <p>ALmighty God, the Father of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt, who deſireth not the death of a ſinner, but rather that he may turn from his wickedneſs and live, and hath given power and commandment to his Miniſters, to declare and pronounce to his people, being penitent, the abſolution and remiſſion of their ſins: He pardoneth and abſolveth all them that truly re<g ref="char:EOLhyphen"/>pent, and unfeignedly believe his holy Goſpel. Wherefore let us beſeech him to grant us true repentance and his holy Spirit, that thoſe things may pleaſe him which we do at this pre<g ref="char:EOLhyphen"/>ſent, and that the reſt of our life hereafter may be pure and holy, ſo that at the laſt we may come to his eternal joy, through Ieſus Chriſt our Lord.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>The people ſhall anſwer here, and at the end of all other Prayers,</hi> Amen.</head>
+               <p>¶ <hi>The ſhall the Miniſter kneel, and begin the Lords Prayer; the people alſo repeating it with him.</hi>
+               </p>
+               <p>OUr Father, which art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our treſpaſſes, as we forgive them that treſpaſs a<g ref="char:EOLhyphen"/>gainſt us. And lead us not into temptation; But deliver us from evil: For thine is the king<g ref="char:EOLhyphen"/>dom, and the power, and the glory, for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:25"/>
+               <head>¶ Then likewiſe he ſhall ſay,</head>
+               <p>O Lord, open thou our lips.</p>
+               <p>
+                  <hi>Anſw.</hi> And our mouth ſhall ſhew forth thy praiſe.</p>
+               <p>
+                  <hi>Prieſt.</hi> O God, make ſpeed to ſave us.</p>
+               <p>
+                  <hi>Anſw.</hi> O Lord, make haſte to help us.</p>
+            </div>
+            <div type="part">
+               <head>¶ Here all ſtanding up, the Prieſt ſhall ſay,</head>
+               <p>Glory be to the Father, and to the Son: and to the holy Ghoſt;</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>As it was in the beginning, is now and ever ſhall be: world without end. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Prieſt.</hi> Praiſe ye the Lord.</p>
+               <p>
+                  <hi>Anſw.</hi> The Lords name be praiſed.</p>
+            </div>
+            <div type="part">
+               <head>¶ Then ſhall be ſung or ſaid this Hymn following; one Verſe by the Prieſt, and another by the Clerk and People.</head>
+               <p>
+                  <hi>O</hi> Come let us humble our ſelves before the <note place="margin">Pſal. 65. 6.</note> Lord: and fall down before him with reve<g ref="char:EOLhyphen"/>rence and fear.</p>
+               <p>
+                  <hi>For he is the Lord our God: and we are the peo<g ref="char:EOLhyphen"/>ple</hi> 
+                  <note place="margin">7.</note> 
+                  <hi>of his paſture, and the ſheep of his hands.</hi>
+               </p>
+               <p>Let us repent and turn from our wic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edneſs: <note place="margin">Act. 3. 19.</note> and our ſins ſhall be forgiven us.</p>
+               <p>
+                  <hi>For this ſhall every one that is godly, make his</hi> 
+                  <note place="margin">Pſal. 32. 7.</note> 
+                  <hi>prayer unto thee, O Lord: in a time when thou may<g ref="char:EOLhyphen"/>eſt be found.</hi>
+               </p>
+               <p>In my trouble I will call upon the Lord, and <note place="margin">Pſal. 18. 2.</note> complain unto my God: ſo ſhall I be ſafe from mine enemies. <note place="margin">6.</note>
+               </p>
+               <p>
+                  <hi>So ſhall he hear my voice out of his holy temple: and my complaint ſhall come before him, it ſhall en<g ref="char:EOLhyphen"/>ter even into his ears.</hi>
+                  <pb facs="tcp:61057:25"/> Hear my prayer, O God: and let my crying <note place="margin">Pſ. 102 1.</note> come unto thee.</p>
+               <p>
+                  <hi>Thou art my King, O God: ſend help unto Ja<g ref="char:EOLhyphen"/>cob.</hi> 
+                  <note place="margin">Pſal. 44 5,</note>
+               </p>
+               <p>Through thee will we overthrow our ene<g ref="char:EOLhyphen"/>mies: <note place="margin">6,</note> and in thy Name will we tread them under, that riſe up againſt us.</p>
+               <p>
+                  <hi>For I will not truſt in my bow: it is not my</hi> 
+                  <note place="margin">7.</note> 
+                  <hi>ſword that ſhall help me.</hi>
+               </p>
+               <p>But it is thou that ſaveſt us from our e<g ref="char:EOLhyphen"/>nemies: <note place="margin">8.</note> and putteſt them to confuſion, that hate us.</p>
+               <p>
+                  <hi>There is no King that can be ſaved by the mul<g ref="char:EOLhyphen"/>titude</hi> 
+                  <note place="margin">Pſ. 33. 15.</note> 
+                  <hi>of an Hoſt: neither is any mighty man deli<g ref="char:EOLhyphen"/>vered by much ſtrength.</hi>
+               </p>
+               <p>Therefore in thee, O Lord, have I put my <note place="margin">Pſ. 31. 1.</note> truſt: let me never be put to confuſion; deli<g ref="char:EOLhyphen"/>ver me in thy righteouſneſs.</p>
+               <p>
+                  <hi>Bowe down thine ear to me, and ſave me: make</hi> 
+                  <note place="margin">2.</note> 
+                  <hi>haſte to deliver me.</hi>
+               </p>
+               <p>I will love thee, O Lord my ſtrength; the <note place="margin">Pſ. 18. 1.</note> Lord is my ſtony rock, and my defence: my Sa<g ref="char:EOLhyphen"/>viour, my God, and my might, in whom I will truſt, my buckler, the horn alſo of my ſalvation, and my refuge.</p>
+               <p>
+                  <hi>Behold the eye of the Lord is upon them that</hi> 
+                  <note place="margin">Pſ. 33. 17.</note> 
+                  <hi>fear him: and upon them that put their truſt in his mercy.</hi>
+               </p>
+               <p>O be favourable and gracious unto Sion: <note place="margin">Pſ. 51. 18.</note> build thou the walls of Ieruſalem.</p>
+               <p>
+                  <hi>Let thy merciful kindneſs, O Lord, be upon us:</hi> 
+                  <note place="margin">Pſ. 33 21.</note> 
+                  <hi>like as we do put our truſt in thee.</hi>
+               </p>
+               <p>Glory be to the Father, and to the Son: and to the Holy Ghoſt;</p>
+               <p>
+                  <hi>As it was in the beginning, is now, and ever ſhall be: world without end. Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:26"/>
+               <head>Domine, refugium. Pſal. 90.</head>
+               <p>LOrd, thou haſt been our refuge: from one generation to another.</p>
+               <p>Before the mountains were brought forth, or ever the earth and the world were made: thou art God from everlaſting, and world with<g ref="char:EOLhyphen"/>out end.</p>
+               <p>Thou turneſt man to deſtruction: again thou ſayeſt, Come again, ye children of men.</p>
+               <p>For a thouſand years in thy ſight are but as yeſterday: ſeeing that is paſt as a watch in the night.</p>
+               <p>Aſſoon as thou ſcattereſt them, they are even as a ſleep: and fade away ſuddenly like the graſs.</p>
+               <p>In the morning it is green, and groweth up: but in the evening it is cut down, dried up, and withered.</p>
+               <p>For we conſume away in thy diſpleaſure: and are afraid at thy wrathful indignation.</p>
+               <p>Thou haſt ſet our miſdeeds before thee: and our ſecret ſins in the light of thy countenance.</p>
+               <p>For when thou art angry, all our days are gone: we bring our years to an end, as it were a tale that is told.</p>
+               <p>The days of our age are threeſcore years and ten, and though men be ſo ſtrong, that they come to fourſcore years: yet is their ſtrength then but labour, and ſorrow; ſo ſoon paſſeth it away, and we are gone.</p>
+               <p>But who regardeth the power of thy wrath: for even thereafter as a man feareth, ſo is thy diſpleaſure.</p>
+               <p>So teach us to number our days: that we may apply our hearts unto wiſdom.</p>
+               <pb facs="tcp:61057:26"/>
+               <p>Turn thee again, O Lord, at the laſt: and be gracious unto thy ſervants.</p>
+               <p>O ſatisfie us with thy mercy, and that ſoon: ſo ſhall we rejoyce and be glad all the days of our life.</p>
+               <p>Comfort us again now after the time that thou haſt plagued us: and for the years where<g ref="char:EOLhyphen"/>in we have ſuffered adverſity.</p>
+               <p>Shew thy ſervants thy work: and their chil<g ref="char:EOLhyphen"/>dren thy glory.</p>
+               <p>And the glorious Majeſty of the Lord our God be upon us: proſper thou the work of our hands upon us, O proſper thou our handy<g ref="char:EOLhyphen"/>work.</p>
+            </div>
+            <div type="part">
+               <head>Qui habitat. Pſal. 91.</head>
+               <p>Whoſo dwelleth under the defence of the moſt High: ſhall abide under the ſhadow of the Almighty.</p>
+               <p>I will ſay unto the Lord, Thou art my hope, and my ſtrong hold: my God, in him will I truſt.</p>
+               <p>For he ſhall deliver thee from the ſnare of the hunter: and from the noiſom peſtilence.</p>
+               <p>He ſhall defend thee under his wings, and thou ſhalt be ſafe under his feathers: his faith<g ref="char:EOLhyphen"/>fulneſs and truth ſhall be thy ſhield and buck<g ref="char:EOLhyphen"/>ler.</p>
+               <p>Thou ſhalt not be afraid for any terrour by night: nor for the arrow that flyeth by day;</p>
+               <p>For the peſtilence that walketh in darkneſs: nor for the ſickneſs that deſtroyeth in the noon<g ref="char:EOLhyphen"/>day.</p>
+               <p>A thouſand ſhall fall beſide thee, and ten thou<g ref="char:EOLhyphen"/>ſand at thy right hand: but it ſhall not come nigh thee.</p>
+               <p>Yea, with thine eyes ſhalt thou behold: and ſee the reward of the ungodly.</p>
+               <pb facs="tcp:61057:27"/>
+               <p>For thou, Lord, art my hope: thou haſt ſet thine houſe of defence very high.</p>
+               <p>There ſhall no evil happen unto thee: neither ſhall any plague come nigh thy dwelling.</p>
+               <p>For he ſhall give his angels charge over thee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to keep thee in all thy ways.</p>
+               <p>They ſhall bear thee in their hands: that thou hurt not thy foot againſt a ſtone.</p>
+               <p>Thou ſhalt go upon the lion and adder: the young lion and the dragon ſhalt thou tread un<g ref="char:EOLhyphen"/>der thy feet.</p>
+               <p>Becauſe he hath ſet his love upon me, there<g ref="char:EOLhyphen"/>fore will I deliver him: I will ſet him up, be<g ref="char:EOLhyphen"/>cauſe he hath known my Name.</p>
+               <p>He ſhall call upon me, and I will hear him: yea, I am with him in trouble; I will deliver him, and bring him to honour.</p>
+               <p>With long life will I ſatisfie him: and ſhew him my ſalvation.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Benedictus Dominus. Pſal.</hi> 144.</head>
+               <p>BLeſſed be the Lord my ſtrength: who teach<g ref="char:EOLhyphen"/>eth my hands to war, and my fingers to fight;</p>
+               <p>My hope and my fortreſs, my caſtle and deli<g ref="char:EOLhyphen"/>verer, my defender in whom I truſt: who ſub<g ref="char:EOLhyphen"/>dueth my people that is under me.</p>
+               <p>Lord, what is man, that thou haſt ſuch reſpect unto him: or the ſon of man, that thou ſo regar<g ref="char:EOLhyphen"/>deſt him?</p>
+               <p>Man is like a thing of nought: his time paſ<g ref="char:EOLhyphen"/>ſeth away like a ſhadow.</p>
+               <p>Bowe thy heavens, O Lord, and come down: touch the mountains, and they ſhall ſmoke.</p>
+               <p>Caſt forth thy lightning and tear them: ſhoot
+<pb facs="tcp:61057:27"/> out thine arrows, and conſume them.</p>
+               <p>Send down thine hand from above: deliver me, and take me out of the great waters, from the hand of ſtrange children;</p>
+               <p>Whoſe mouth talketh of vanity: and their right hand is a right hand of wickedneſs.</p>
+               <p>I will ſing a new ſong unto thee, O God: and ſing praiſes unto thee upon a ten-ſtringed Iute.</p>
+               <p>Thou haſt given victory unto kings: and haſt delivered David thy ſervant from the peril of the ſword.</p>
+               <p>Save me, and deliver me from the hand of ſtrange children: whoſe mouth talketh of vani<g ref="char:EOLhyphen"/>ty, and their right hand is a right hand of ini<g ref="char:EOLhyphen"/>quity.</p>
+               <p>That our ſons may grow up as the young plants: and that our daughters may be as the poliſhed corne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the temple.</p>
+               <p>That our garners may be full and plenteous with all manner of ſtore: that our ſheep may bring forth thouſands, and ten thouſands in our ſtreets.</p>
+               <p>That our oxen may be ſtrong to labour, that there be no decay: no leading into captivity, and no complaining in our ſtreets.</p>
+               <p>Happy are the people that are in ſuch a caſe: yea, bleſſed are the people who have the Lord for their God.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The firſt Leſſon is, Exod.</hi> 17. 8.</head>
+               <p>THen c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me Am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lck, and fought with Iſrael in Rephidim. And Moſes ſaid unto Ioſhua, Ch<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and go out, fight with Ama<g ref="char:EOLhyphen"/>lek:
+<pb facs="tcp:61057:28"/> to morrow I will ſtand on the top of the hill, with the rod of God in mine hand. So Ioſhua did as Moſes had ſaid to him, and fought with Amalek: and Moſes, Aaron, and Hur, went up to the top of the hill. And it came to paſs, When M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes held up his hand, that Iſrael prevailed: And when he let dow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his hand, Amalek prevailed. But Moſes hands were heavy, and they took a ſtone, and put it under him, and he ſat thereon: And Aaron and Hut ſtayed up his hands, the one on the one ſide, and the other on the other ſide; and his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands were ſteady until the going down of the ſun. And Ioſhua diſcomfited Amalek, and his peo<g ref="char:EOLhyphen"/>ple with the edge of the ſword. And the Lord ſaid unto Moſes, Write this for a memorial in a book, and rehearſe it in the ears of Io hua; for I will utterly put out the remembrance of Amalek from under heaven. And Moſes built an altar, and called the name of it, IEHD<g ref="char:EOLhyphen"/>UAH-niſsi. For he ſaid, Becauſe the Lord hath ſworn, that the Lord will have war with Amalek from generation to generation.</p>
+            </div>
+            <div type="part">
+               <head>Magnificat.</head>
+               <p>MY ſoul doth magnifie the Lord: and my ſpirit hath rejoyced in God my Savi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur.</p>
+               <p>For he hath regarded: the lowlineſs of his hand-maiden.</p>
+               <p>For behold, from henceforth: all generati<g ref="char:EOLhyphen"/>ons ſhall call me bleſſed.</p>
+               <p>For he that is mighty hath magnifie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me: and holy is his Name.</p>
+               <p>And his mercy is on them that fear him: throughout all generations.</p>
+               <pb facs="tcp:61057:28"/>
+               <p>He hath ſhewed ſtrength with his arm: he hath ſcattered the proud in the imagination of their hearts.</p>
+               <p>He hath put down the mighty from their ſeat: and hath e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alted the humble and meek.</p>
+               <p>He hath filled the hungry with good things: and the rich he hath ſent empty away.</p>
+               <p>He remembring his mercy hath holpen his ſervant Iſrael: as he promiſed to our forefa<g ref="char:EOLhyphen"/>thers, Abraham and his ſeed for ever.</p>
+               <p>Glory be to the Father, and to the Son: and to the Holy Ghoſt;</p>
+               <p>As it was in the beginning, is now, and ever ſhall be: world without end. Amen.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The ſecond Leſſon is, Hebr.</hi> 11.</head>
+               <p>NOw faith is the ſubſtance of things hoped for, the evidence of things not ſeen. For by it the elders obtained a good report. Through faith we underſtand that the worlds were fra<g ref="char:EOLhyphen"/>med by the word of God, ſo that things which are ſeen, were not made of things which do ap<g ref="char:EOLhyphen"/>pear. By faith Abel offered unto God a more excellent ſacrifice then Cain, by which he ob<g ref="char:EOLhyphen"/>tained witneſs, that he was righteous, God teſtifying of his gifts: and by it he being dead, yet ſpeaketh. By faith Enoch was tranſlated, that he ſhould not ſee death, and was not found, becauſe God had tranſlated him: for before his tranſlation, he had this teſtimony, that he pleaſ<g ref="char:EOLhyphen"/>ed God. But without faith it is impoſſible to pleaſe him; for he that cometh to God, muſt believe that he is, and that he is a Rewar<g ref="char:EOLhyphen"/>der of them that diligently ſeek him. By
+<pb facs="tcp:61057:29"/> faith Noah, being warned of God of things not ſeen as yet, moved with fear, prepared an ark to the ſaving of his houſe, by the which he condemned the world, and became heir of the righteouſneſs, which is by faith. By faith A<g ref="char:EOLhyphen"/>braham, when he was called to go out into a place which he ſhould after receive for an inhe<g ref="char:EOLhyphen"/>ritance, obeyed, and he went out, not knowing whither he went. By faith he ſojourned in the land of promiſe, as in a ſtrange countrey, dwel<g ref="char:EOLhyphen"/>ling in tabernacles with Iſaac and Iacob, the heirs with him of the ſame promiſe. For he looked for a city which hath foundations, whoſe builder and maker is God. Through faith al<g ref="char:EOLhyphen"/>ſo Sara her ſelf received ſtrength to conceive ſeed, and was delivered of a child, whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe was paſt age, becauſe ſhe judged him ſaith<g ref="char:EOLhyphen"/>ful who had promiſed. Therefore ſprang there even of one, and him as good as dead, ſo many as the ſtars of the sky in multitude, and as the ſand which is by the ſea-ſhore innumerable. Theſe all died in faith, not having received the promiſes, but having ſeen them afa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> off, and were perſwaded of them, and embraced them, and confeſſed that they were ſtrangers, and pilgrims on the earth. For they that ſay ſuch things, declare plainly, that they ſeek a countrey. And truly, if they had been mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dful of that countrey, from whence they came out, they might have had opportunity to have re<g ref="char:EOLhyphen"/>turned: But now they deſire a better countrey, that is, an heavenly: wherefore God is not aſhamed to be called their God: for he hath prepared for them a city. By faith Abra<g ref="char:EOLhyphen"/>ham, when he was tried, offered us Iſaac: and he that had received the promiſes, offered up
+<pb facs="tcp:61057:29"/> his onely begotten ſon, Of whom it was ſaid, that in Iſaac ſhall thy ſeed be called: Account<g ref="char:EOLhyphen"/>ing that God was able to raiſe him up, even from the dead: from whence alſo he received him in a figure. By faith Iſaac bleſſed Iacob, and Eſau, concerning things to come. By faith Iacob, when he was a dying, bleſſed both the ſons of Ioſeph, and worſhipped leauing upon the top of his ſtaff. By faith Ioſeph, when he died, made mention of the departing of the children of Iſrael, and gave command<g ref="char:EOLhyphen"/>ment concerning his bones. By faith Moſes, when he was born, was hid three moneths of his parents, becauſe they ſaw he was a proper child, and they not afraid of the kings com<g ref="char:EOLhyphen"/>mandment. By faith Moſes, when he was come to years, refuſed to be called the ſon of Pharaohs daughter; Chuſing rather to ſuffer affliction with the people of God, then to enjoy the pleaſures of ſin for a ſeaſon; Eſteem<g ref="char:EOLhyphen"/>ing the reproch of Chriſt greater riches then the treaſures in Egypt; for he had reſpect unto the recompenſe of the reward. By faith he forſook Egypt, not fearing the wrath of the king: for he enduted, as ſeeing him who is inviſible. Through faith he kept the paſſover &amp; the ſprink<g ref="char:EOLhyphen"/>ling of bloud, leſt he that deſtroyed the firſt-born ſhould touch them. By faith they paſſed thorow the Red-ſea, as by dry land: which the Egyp<g ref="char:EOLhyphen"/>tians aſſaying to do, were drowned. By faith the walls of Iericho fell down, after they were compaſſed about ſeven dars. By faith the harlot Rahab periſhed not with them that belie<g ref="char:EOLhyphen"/>ved not, when ſhe had received the ſpies with peace. And what ſhall I more ſay? for the time would fall me to tell of G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deon, and of Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak,
+<pb facs="tcp:61057:30"/> and of Samſon, and of Iephtha, of David alſo, and Samuel, &amp; of the prophets: Who through faith ſubdued kingdoms, wrought righteouſ<g ref="char:EOLhyphen"/>neſs, obtained promiſes, ſtopped the mouths of lions, Quenched the violence of fire, eſca<g ref="char:EOLhyphen"/>ped the edge of the ſword, out of weakneſs were made ſtrong, waxed valiant in fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht, turned to flight the armies of the aliens: Wo<g ref="char:EOLhyphen"/>men received their dead, raiſed to life again: and others were tortured, not accepting de<g ref="char:EOLhyphen"/>liverance, that they might obtain a better re<g ref="char:EOLhyphen"/>ſurrection. And others had trial of cruel mock<g ref="char:EOLhyphen"/>ings and ſcourgings; yea, moreover of bonds and impriſonment. They were ſroned, they were ſawn aſunder, were tempted, were ſlain with the ſword: they wandered about in ſheep<g ref="char:EOLhyphen"/>skins, and goat-skins, being deſtitute, afflict<g ref="char:EOLhyphen"/>ed, tormented: (Of whom the world was not worthy) they wandred in deſerts, and in moun<g ref="char:EOLhyphen"/>tains, and in dens, and caves of the earth. And theſe all having obtained a good report through faith, received not the promiſe; God having provided ſome better thing for us: that they without us ſhould not be made perfect.</p>
+            </div>
+            <div type="part">
+               <head>Deus miſereatur. Pſal. 67.</head>
+               <p>GOd be merciful unto us, and bleſs us: and ſhew us the light of his countenance, and be merciful unto us.</p>
+               <p>That thy way may be known upon earth: thy ſaving health among all nations.</p>
+               <p>Let the people praiſe thée, O God: yea, let all the people praiſe thee.</p>
+               <p>O let the nations rejoyce and be glad: for thou ſhalt judge the folk righteouſly, and go<g ref="char:EOLhyphen"/>vern the nations upon earth.</p>
+               <pb facs="tcp:61057:30"/>
+               <p>Let the people praiſe thee, O God: let all ſhe people praiſe thee.</p>
+               <p>Then ſhall the earth bring forth her increaſe: and God, even our own God, ſhall give us his bleſſing.</p>
+               <p>God ſhall bleſs us: and all the end; of the world ſhall fear him.</p>
+               <p>
+                  <hi>Glory be to the Father, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>As it was in the beginning, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ Then ſhall be ſaid th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Creed by the Miniſter, and the people ſtanding.</head>
+               <p>
+                  <hi>I</hi> Believe in God the Father Almighty, Ma<g ref="char:EOLhyphen"/>ker of heaven and earth: And in Ieſus Chriſt his onely Son our Lord; who was conceived by the holy Ghoſt, born of the Virgin <hi>Mary,</hi> ſuffer<g ref="char:EOLhyphen"/>ed under <hi>Pontius Pilate;</hi> was crucified, dead and buried; he deſcended into hell; the third day he roſe again from the dead; he aſcended into heaven, and ſitteth on the right hand of God the Father Almighty; from thence he ſhall come to judge the quick and the dead. I believe in the holy Ghoſt, the holy Catholick Church, the Communion of Saints, the forgiveneſs of ſins, the reſurrection of the body, and the life everlaſting. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ And after that, theſe Prayers following, all de<g ref="char:EOLhyphen"/>voutly kneeling, the Miniſter firſt pronouncing with a loud voice,</head>
+               <p>The Lord be with you.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And with thy ſpirit.</p>
+               <p>
+                  <hi>Miniſter.</hi>
+               </p>
+               <p>¶ Let us pray.</p>
+               <pb facs="tcp:61057:31"/>
+               <p>Lord, have mercy upon us.</p>
+               <p>
+                  <hi>Chriſt, have mercy upon us.</hi>
+               </p>
+               <p>Lord, have mercy upon us.</p>
+            </div>
+            <div type="part">
+               <head>¶ <hi>Then the Miniſter, Clerks and people, ſhall ſay the Lords prayer with a loud voice.</hi>
+               </head>
+               <p>OUr Father, which art in heaven, hallowed de thy Name. Thy Kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our treſpaſſes, as we forgive them that treſpaſs<g ref="char:punc">▪</g> againſt us. And lead us not into temptation: but deliver us from evil. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ Then the prieſt ſtanding up, ſhall ſay,</head>
+               <p>O Lord, ſhew thy mercy upon us.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And grant us thy ſalvation.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord, ſave the King.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And mercifully hear us, when we call upon thee.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord, ſave thy ſervants,</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Who do put their truſt in thee.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Send us help from thy holy place;</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And evermore mightily defend us.</p>
+               <pb facs="tcp:61057:31"/>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Let the enemy have no advantage over us:</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Nor the wicked approch to hurt us.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Be unto us, O Lord; a ſtrong towre,</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>From the face of our enemies.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord, hear our prayer,</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And let our cry come unto thee.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Indue thy Miniſters with righteouſneſs.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And make thy choſen people joyful.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O Lord, ſave thy people.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And bleſs thine inheritance.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>Give peace in out time, O Lord.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Becauſe there is none other, that fighteth for us, but onely thou, O God.</p>
+               <p>
+                  <hi>Prieſt.</hi>
+               </p>
+               <p>O God, make clean our hearts within us.</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>And take no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy holy Spirit from us.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61057:32"/>
+               <head>¶ <hi>In ſtead of the firſt Collect ſhall theſe two be uſed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </head>
+               <p>O Moſt glorious, and powerful Lord God, who alone haſt ſpread out the hea<g ref="char:EOLhyphen"/>vens, and compaſſed the waters with bounds, until night and day come to an end; We adore thy divine Majeſty, acknowledg<g ref="char:EOLhyphen"/>ing thy power, and imploring thy goodneſs. Be pleaſed to receive into thine Almigh<g ref="char:EOLhyphen"/>ty and moſt gracious protection, the perſons of thy ſervants that fight for us, and the Ships and Navies in which they ſerve: preſerve them all from the dangers of the ſea, and from the violence of the enemy, and from every ſad accident: that they may be a ſafe<g ref="char:EOLhyphen"/>guard to our moſt gracious Sovereign, and his Kingdoms, and a ſecurity for ſuch as paſs on the ſeas upon their lawful occaſions. Help, Lord, and ſave them for thy mercies ſake<g ref="char:punc">▪</g> that they may return in ſafety, with honour and vi<g ref="char:EOLhyphen"/>ctory, and good ſucceſs, to enjoy the bleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings of the land, and the fruit of their labours<g ref="char:punc">▪</g> and that all the inhabitants of theſe Iſlands, being bleſt with plenty and proſperity, peace and qui<g ref="char:EOLhyphen"/>etneſs, may ſerve thee our God in righteouſ<g ref="char:EOLhyphen"/>neſs, and true holineſs, and with a thankful remembrance of all thy mercies may ever praiſe and glorifie thy holy Name, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Almighty God, King of all kings, and Go<g ref="char:EOLhyphen"/>vernour of all things, whoſe power no crea<g ref="char:EOLhyphen"/>ture is able to reſiſt, to whom it belongeth iuſtly to puniſh ſinners, &amp; to be merciful to them that truly repent; Save and deliver us, we humbly beſeech thee, from the hands of our enemies;
+<pb facs="tcp:61057:32"/> abate their pride, aſſwage their malice, and con<g ref="char:EOLhyphen"/>found their devices, that we, being armed with thy defence, may be preſerved evermore from all perils, to glorifie thee, who art the only giver of all victory, through the merits of thy only Son Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O God, from whom all holy deſires, all good counſels, and all iuſt works do proceed; Give unto thy ſervants that peace which the world cannot give, that both our hearts may be ſet to obey thy commandments, and alſo that by thee we being defended from the fear of our enemies, may paſs our time in reſt and quiet<g ref="char:EOLhyphen"/>neſs, through the merits of Ieſus Chriſt our Saviour. <hi>Amen.</hi>
+               </p>
+               <p>LIghten our darkneſs, we beſeech thee, O Lord, and by thy great mercy defend us from all perils and dangers of this night, for the love of thy onely Son, our Saviour Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty &amp; everlaſting God, who hateſt no<g ref="char:EOLhyphen"/>thing that thou haſt made, and doſt forgive the ſins of all them that are penitent; Create &amp; make in us new and contrite hearts, that we worthily lamenting our ſins, and acknowledg<g ref="char:EOLhyphen"/>ing our wretchedneſs, may obtain of thee, the God of all mercy, perfect remiſſion and forgive<g ref="char:EOLhyphen"/>neſs, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Lord, we beſeech thee mercifully hear our prayers, and ſpare all thoſe who confeſs their ſins unto thee, that they whoſe conſciences
+<pb facs="tcp:61057:33"/> by ſin are accuſed, by thy merciful pardon may be abſolved, through Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O</hi> Moſt mighty God, and merciful Father, who haſt compaſſion upon all men, and ha<g ref="char:EOLhyphen"/>teſt nothing that thou haſt made, who wouldeſt not the death of a ſinner, but that he ſhould ra<g ref="char:EOLhyphen"/>ther turn from his ſin, and be ſaved; Mercifully forgive us our treſpaſſes; receive and comfort us, who are grieved and wearied with the bur<g ref="char:EOLhyphen"/>then of our ſins. Thy property is always to have mercy; to thee only it appertaineth to for<g ref="char:EOLhyphen"/>give ſins. Spare us therefore, good Lord, ſpare thy people, whom thou haſt redeemed; enter not into judgment with thy ſervants, who are vile earth, and miſerable ſinners; but ſo turn thine anger from us, who meekly acknowledge our vileneſs, and truly repent us of our faults; and ſo make haſte to help us in this world, that we may ever live with thee in the world to come, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ Then ſhall the people ſay this that followeth, after the Miniſter.</head>
+               <p>TUrn thou us, O good Lord, and ſo ſhall we be turned. Be favourable, O Lord, be fa<g ref="char:EOLhyphen"/>vourable to thy people, Who turn to thee in weeping, faſting, and praying. For thou art a merciful God, Full of compaſſion, Long ſuf<g ref="char:EOLhyphen"/>fering, and of great pity. Thou ſpareſt when we deſerve puniſhment, And in thy wrath think<g ref="char:EOLhyphen"/>eſt upon mercy. Spare thy people, good Lord, ſpare them, And let not thine heritage be brought to confuſion. Hear us, O Lord, for thy mercy is great, And after the multi<g ref="char:EOLhyphen"/>tude of thy mercies look upon us, Through the
+<pb facs="tcp:61057:33"/> merits and mediation of thy bleſſed Son Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ A Prayer for the Kings Majeſty.</head>
+               <p>
+                  <hi>O</hi> Lord, our heavenly Father, High and Mighty, King of kings, Lord of lords, the onely Ruler of princes, who doſt from thy Throne behold all the dwellers upon earth, moſt heartily we beſeech thee with thy favour to behold our moſt gracious Sovereign Lord King <hi>Charles,</hi> and ſo repleniſh him with the grace of thy holy Spirit, that he may aſway incline to thy will, and walk in thy way; en<g ref="char:EOLhyphen"/>due him plenteouſly with heavenly gifts; grant him in health and wealth long to live; ſtreng<g ref="char:EOLhyphen"/>then him, that he may vanquiſh and overcome all his enemies, and finally after this life, he may attain everlaſting joy and felicity, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ A Prayer for the Royal Family.</head>
+               <p>ALmighty God, the Fountain of all goodneſs, we humbly beſeech thee, to bleſs our gra<g ref="char:EOLhyphen"/>cious Queen <hi>Catherine, James</hi> Duke of <hi>York,</hi> and all the Royal Family; Endue them with thy holy Spirit, enrich them with thy heavenly grace, proſper them with all happineſs, and bring them to thine everlaſting Kingdom, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ A Prayer for the Clergy and people.</head>
+               <p>ALmighty and everlaſting God, who alone workeſt great marvels; Send down upon our Biſhops, and Curates, and all Congrega<g ref="char:EOLhyphen"/>tions
+<pb facs="tcp:61057:34"/> committed to their charge, the healthful Spirit of thy grace; and that they may truly pleaſe thee, pour upon them the continual dew of thy bleſſing. Grant this, O Lord, for the ho<g ref="char:EOLhyphen"/>nour of our Advocate and Mediatour, Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O</hi> Almighty God, and our moſt gracious Fa<g ref="char:EOLhyphen"/>ther, the Sovereign Commander of all the world, in whoſe hand is power, and might, which none is able to withſtand: Thou art the Lord of hoſts, the God of battels, and the ſtrength of all Nations. If thou keepeſt not the City, and the Kingdom, the Watchman waketh but in vain: Nor can victory wait upon the juſteſt De<g ref="char:EOLhyphen"/>ſigns, upon the wiſeſt Counſels, upon the ſtrongeſt Armies, unleſs thou teacheſt their hands to war, and their fingers to fight. Thou art the ſteady Hope of all the ends of the earth; and of them which remain in the broad Sea. Go forth, we humbly beſeech thee, at this time by thy more eſpecial aſſiſtance, with His Majeſties Fleet, and Naval Forces, and bleſs them all. In all their Counſels let Wiſdom lead them; in all their Enterpriſes Courage aſſiſt them; and thy bleſſing every where crown them with Victory, and good Succeſs: That ſo they may at laſt bring back Honour to our Sovereign; ſafety and ſtrength to theſe his Kingdoms; and to all his Subjects plenty and proſperity, and a laſting peace: and finally, that by theſe and all thy mercies, we may be ſtill more engaged to a true and real thank<g ref="char:EOLhyphen"/>fulneſs to thee our God, ſuch as may appear in our lives by an humble, holy, and o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dient walking before thee all our days, Grant this, O
+<pb facs="tcp:61057:34"/> merciful Father, for thy Son Ieſus Chriſt his ſake. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>O</hi> God, the Protectour of all that truſt in Thee, without whom nothing is ſtrong, nothing is holy; who knoweſt us to be ſet in the midſt of ſo many, and ſo great dangers, and ſeeſt, that we have no power of our ſelves to help our ſelves; Mercifully look upon our infirmities; Raiſe up thy power, and come a<g ref="char:EOLhyphen"/>mong us, and with great might ſuccour us: and in all our dangers and neceſſities ſtretch forth the right hand of thy Majeſty to help and defend us againſt all our enemies. Look, we pray thee, upon the hearty deſires of thy hum<g ref="char:EOLhyphen"/>ble ſervants; Encreaſe and multiply upon us thy mercies; that we, who for our evil deeds do worthily deſerve to be puniſhed, by the com<g ref="char:EOLhyphen"/>fort of thy Grace may mercifully be relieved: and that thou being our Saviour and Deli<g ref="char:EOLhyphen"/>verer, our Ruler and our Guide, we may ſo paſs the waves of this troubleſom world, that finally we may come to the land of ever<g ref="char:EOLhyphen"/>laſting life, there to reign with Thee world without end, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A Prayer of S. Chryſoſtom.</head>
+               <p>ALmighty God, who haſt given us grace at this time with one accord, to make our common ſupplications unto thee, and doſt pro<g ref="char:EOLhyphen"/>miſe that when two or three are gathered toge<g ref="char:EOLhyphen"/>ther in thy Name, thou wilt grant their re<g ref="char:EOLhyphen"/>queſts:
+<pb facs="tcp:61057:35"/> Fulfill now, O Lord, the deſires and petitions of thy ſervants, as may be moſt expe<g ref="char:EOLhyphen"/>dient for them, granting us in this world knowledge of thy truth, and in the worl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to come life everlaſting. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>2 Corinth. 13. 14.</head>
+               <p>THe grace of our Lord Ieſus Chriſt, and the love of God, and the fellowſhip of the holy Ghoſt, be with us all evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings Moſt Excellent Majeſty, 1673/4.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
